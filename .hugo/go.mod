@@ -1,4 +1,4 @@
-module theophile.world/notes.theophile.world/.hugo
+module digitramp.org/notes.digitramp.org/.hugo
 
 go 1.20
 

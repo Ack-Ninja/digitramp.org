@@ -1,6 +1,6 @@
-baseURL = 'https://notes-theophile.netlify.app/'
+baseURL = 'https://digitramp.netlify.app/'
 languageCode = 'en-us'
-title = "Théophile's Notes"
+title = "Digitramp"
 metaDataFormat = "yaml"
 theme = 'hugo-theme-techdoc'
 defaultContentLanguage = "en"
@@ -9,14 +9,14 @@ defaultContentLanguageInSubdir = false
 enableMissingTranslationPlaceholders = false
 
 [params]
-    title = "Théophile's Notes"
+    title = "Digitramp's Notes"
     #images = ["images/og-image.png"] # static/images
     description = "Welcome to my little corner of the internet"
 
-    github_repository = "https://github.com/thdelmas/notes.theophile.world"
+    github_repository = "https://github.com/ack-ninja/digitramp.org"
     #version = "0.0.1-dev"
 
-    github_doc_repository = "https://github.com/thdelmas/notes.theophile.world"
+    github_doc_repository = "https://github.com/Ack-Ninja/digitramp.org"
     github_doc_repository_path = ""
     github_doc_repository_branch = "main"
 

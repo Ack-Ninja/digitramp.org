@@ -15,7 +15,7 @@
 baseURL = "https://main--spiffy-mandazi-18716e.netlify.app/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Théophile Delmas' Notes"
+title = "Digitramp"
 theme = "ananke"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
@@ -44,12 +44,12 @@ canonifyurls = true
 # Author
 # ------
 [author]
-  name = "Théophile Delmas"
+  name = "Digitramp"
   bio = "Super bio with markdown support **COOL**"
   job = "Pedagogy & IT Manager"
   location = "Paris, France / Barcelona, Catalunya"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "theophile.delmas.leguery@gmail.com"
+  gravatarEmail = "contact@digitramp.org"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
@@ -119,7 +119,7 @@ canonifyurls = true
   # -----------
   # Description
   # -----------
-  description = "Théophile Delmas' Notes"
+  description = "Digitramp"
 
   # ------------------
   # Syntax highlighter
@@ -334,7 +334,7 @@ canonifyurls = true
   # Gravatar
   #  >> See Author section
   #    [author]
-        gravatarEmail = 'theophile.delmas.leguery@gmail.com'
+        gravatarEmail = 'contact@digitramp.org'
   # Google Analytics
   #  >> See googleAnalytics
       googleAnalytics = "G-L21N6F7DFS"
