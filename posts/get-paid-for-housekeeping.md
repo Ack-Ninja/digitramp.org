@@ -1,6 +1,8 @@
-> Creation:    2023-07-08 15:59:18
->
-> Last Update: 2023-07-08 16:00:28
++++
+title = 'Get Paid for housekeeping'
+date = 2023-07-08T15:46:18+01:00
+draft = false
++++
 
 
 # House Sitting: A Guide to Making Money

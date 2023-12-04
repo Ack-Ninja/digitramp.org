@@ -1,6 +1,8 @@
-> Creation:    2023-07-08 15:38:18
->
-> Last Update: 2023-07-08 15:38:18
++++
+title = 'Get paid to walk'
+date = 2023-07-08T15:46:18+01:00
+draft = false
++++
 
 
 # How to Earn Money with Sweatcoin

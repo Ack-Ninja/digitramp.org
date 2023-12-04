@@ -1,6 +1,8 @@
-> Creation:    2023-07-08 15:38:56
->
-> Last Update: 2023-07-08 15:38:57
++++
+title = 'Internet Access from E-Scooter'
+date = 2023-07-08T15:46:18+01:00
+draft = false
++++
 
 
 # Get Internet Access Using an Electric Scooter SIM Card

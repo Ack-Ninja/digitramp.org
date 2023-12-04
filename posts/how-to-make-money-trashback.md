@@ -1,6 +1,8 @@
-> Creation:    2023-07-08 15:38:26
->
-> Last Update: 2023-07-08 15:38:26
++++
+title = 'Get paid to collect trashes'
+date = 2023-07-08T15:46:18+01:00
+draft = false
++++
 
 
 # How to Make Money with TrashBack

@@ -1,6 +1,8 @@
-> Creation:    2023-07-08 15:38:35
->
-> Last Update: 2023-07-08 15:38:35
++++
+title = 'Sell your data to Google'
+date = 2023-07-08T15:46:18+01:00
+draft = false
++++
 
 
 # How to Make Money with Google Opinion Rewards

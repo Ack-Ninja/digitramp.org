@@ -1,6 +1,8 @@
-> Creation:    2023-07-08 15:53:59
->
-> Last Update: 2023-07-08 15:53:59
++++
+title = 'Bat Brave Rewards'
+date = 2023-07-08T15:46:18+01:00
+draft = false
++++
 
 
 # How to Generate Income through Basic Attention Token (BAT)

@@ -1,6 +1,8 @@
-> Creation:    2023-07-18 12:28:34
->
-> Last Update: 2023-07-18 12:41:25
++++
+title = 'Get Crow workers'
+date = 2023-07-08T15:46:18+01:00
+draft = false
++++
 
 
 # Get Crow Workers: How to Train Crows to Bring Objects
