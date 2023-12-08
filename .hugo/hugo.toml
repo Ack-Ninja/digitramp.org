@@ -12,7 +12,7 @@ googleAnalytics = "G-FVDM84RPVX"
 [params]
     title = "Digitramp's Notes"
     #images = ["images/og-image.png"] # static/images
-    description = "Welcome to my little corner of the internet"
+    description = "Parallel World"
 
     github_repository = "https://github.com/ack-ninja/digitramp.org"
     #version = "0.0.1-dev"
