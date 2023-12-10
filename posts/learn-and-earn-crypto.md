@@ -1,5 +1,5 @@
 +++
-itle = 'Get paid to learn about crypto'
+Title = 'Get paid to learn about crypto'
 date = 2023-07-08T15:46:18+01:00
 draft = false
 +++
@@ -62,3 +62,11 @@ To make the most out of learn and earn programs, consider the following tips:
 Remember, learn and earn programs should be viewed as a way to supplement your income or acquire cryptocurrency for educational purposes. It's important to approach them with realistic expectations and not rely solely on these programs for financial stability.
 
 Now that you have an understanding of how to make money with crypto learn and earn programs, start exploring the available platforms and embark on your learning journey in the exciting world of cryptocurrencies. Happy learning and earning!
+
+
+## Assets
+### List of Learn & Earn providers(non-exhaustive)
+
+- Coinbase
+- Revolut
+- Sweatcoin
