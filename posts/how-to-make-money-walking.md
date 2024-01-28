@@ -64,3 +64,16 @@ Note: The interest rate and stacking options may vary, so make sure to check the
 Congratulations! You have learned how to earn money with Sweatcoin by walking, tracking your steps, and redeeming Sweatcoins for rewards. By using the Sweatwallet app, you can also stack your Sweatcoins in the Jar to earn interest over time.
 
 Remember to check the app regularly for new offers and rewards, as they may change or be updated periodically. Enjoy your journey to a healthier lifestyle and financial rewards with Sweatcoin!
+
+# Other apps that reward your steps & activity
+
+- Nike Running
+- Fitbit
+- Adidas Runtastic
+- Cashwalk
+- StepN
+- Alltrails
+- WeWard
+- Strava
+- Macadam
+- Pedometer
