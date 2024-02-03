@@ -18,4 +18,6 @@ draft = false
 | HealthyWage | Cash for weight loss goals                  | iOS and Android       | Varies on bet/goal     |
 
 
-Want to suggest improvements ? Reach out on [Discord](https://discord.gg/pm96w5n3eC)
+> Want to suggest improvements ?
+> 
+> Reach out on [Discord](https://discord.gg/pm96w5n3eC)
