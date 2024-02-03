@@ -21,7 +21,7 @@ In today's digital era, where the cost of living continues to rise, finding ways
 #### **How to Leverage "La Cuponera" for Maximum Savings**
 
 **Step 1: Download and Sign Up**
-Start by downloading "La Cuponera" from your app store. Create an account to personalize your experience, allowing the app to recommend deals based on your preferences and shopping habits.
+Start by downloading "[La Cuponera](https://lacuponera.es/)" from your app store. Create an account to personalize your experience, allowing the app to recommend deals based on your preferences and shopping habits.
 
 **Step 2: Explore and Customize**
 Navigate through the app to explore the different categories of coupons available. Use the customization features to filter deals based on your interests, location, and frequently visited stores.
