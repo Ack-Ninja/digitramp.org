@@ -1,4 +1,4 @@
-baseURL = 'https://digitramp.netlify.app/'
+baseURL = 'https://digitramp.org/'
 languageCode = 'en-us'
 title = "Digitramp"
 metaDataFormat = "yaml"
