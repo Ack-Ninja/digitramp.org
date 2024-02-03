@@ -49,7 +49,7 @@ googleAnalytics = "G-FVDM84RPVX"
     [markup.tableOfContents]
         startLevel = 2
         endLevel = 6
-        ordered = false
+        ordered = true
 
 [outputs]
     home = ["HTML", "RSS"]
