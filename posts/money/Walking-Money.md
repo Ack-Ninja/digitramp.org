@@ -17,3 +17,5 @@ draft = false
 | Evidation    | Points for health actions, 10,000 pts = $10 | iOS and Android       | 10,000 pts = $10       |
 | HealthyWage | Cash for weight loss goals                  | iOS and Android       | Varies on bet/goal     |
 
+
+Want to suggest improvements ? Reach out on [Discord](https://discord.gg/pm96w5n3eC)
