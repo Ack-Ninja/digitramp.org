@@ -1,5 +1,5 @@
 +++
-title = 'Save Money and Reduce Food Waste'
+title = 'Save Money & Reduce Food Waste'
 date = 2024-02-03T23:46:18+01:00
 draft = false
 +++
