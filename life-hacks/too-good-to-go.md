@@ -1,4 +1,8 @@
-# Making the Most of "Too Good To Go": Save Money and Reduce Food Waste
++++
+title = 'Save Money and Reduce Food Waste'
+date = 2024-02-03T23:46:18+01:00
+draft = false
++++
 
 "Too Good To Go" is an innovative app designed to combat food waste while offering consumers the opportunity to purchase food at significantly reduced prices. This guide explores why the app is beneficial, how to use it effectively, and what you can expect in terms of savings and environmental impact.
 
