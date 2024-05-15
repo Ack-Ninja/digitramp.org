@@ -54,8 +54,6 @@ enableSharingButtons = true
     weight = 5
     [languages.ca.params]
       subtitle = 'Vida nòmada 3.0: Referència, Tutoriales i Explicacions'
-      path = "https://github.com/cdnjs/cdnjs/blob/master/ajax/libs/flag-icon-css/7.2.1/flags/1x1/es-ct.svg"
-      alt = "Catala Flag"
   [languages.eu]
     contentDir = '../content/eu'
     disabled = false
@@ -66,8 +64,6 @@ enableSharingButtons = true
     weight = 6
     [languages.eu.params]
       subtitle = 'Nomad bizitza 3.0: Erreferentzia, Tutorialak eta Azalpenak'
-      path = "https://github.com/cdnjs/cdnjs/blob/master/ajax/libs/flag-icon-css/7.2.1/flags/1x1/es-pv.svg"
-      alt = "Basque Flag"
 
 
 [params]
