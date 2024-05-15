@@ -37,7 +37,7 @@ defaultContentLanguage = "en"
 
 
 [permalinks]
-  posts = "/content/:lang/:title/"
+  posts = "/:title/"
 
 [author]
   name = "Joy Doe"
