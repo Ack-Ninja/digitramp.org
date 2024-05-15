@@ -227,7 +227,7 @@ defaultContentLanguage = "en"
     languageDirection = 'ltr'
     languageName = 'Français'
     title = 'Digitramp'
-    weight = 3
+    weight = 5
     [languages.fr.params]
       subtitle = 'La vie nomade 3.0 : Référence, Tutoriels et Explications'
   [languages.es]
@@ -237,7 +237,7 @@ defaultContentLanguage = "en"
     languageDirection = 'ltr'
     languageName = 'Español'
     title = 'Digitramp'
-    weight = 4
+    weight = 3
     [languages.es.params]
       subtitle = 'Vida nómada 3.0: Referencia, Tutoriales y Explicaciones'
   [languages.ca]
@@ -247,7 +247,7 @@ defaultContentLanguage = "en"
     languageDirection = 'ltr'
     languageName = 'Català'
     title = 'Digitramp'
-    weight = 5
+    weight = 1
     [languages.ca.params]
       subtitle = 'Vida nòmada 3.0: Referència, Tutoriales i Explicacions'
   [languages.eu]
@@ -257,7 +257,7 @@ defaultContentLanguage = "en"
     languageDirection = 'ltr'
     languageName = 'Euskera'
     title = 'Digitramp'
-    weight = 6
+    weight = 4
     [languages.eu.params]
       subtitle = 'Nomad bizitza 3.0: Erreferentzia, Tutorialak eta Azalpenak'
 
