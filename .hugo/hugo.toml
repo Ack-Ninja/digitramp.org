@@ -21,7 +21,7 @@ googleAnalytics = "G-FVDM84RPVX"
     [languages.de.params]
       subtitle = 'Referenz, Tutorials und Erklärungen'
   [languages.en]
-    contentDir = 'content/en'
+    contentDir = '../content/en'
     disabled = false
     languageCode = 'en-US'
     languageDirection = 'ltr'
