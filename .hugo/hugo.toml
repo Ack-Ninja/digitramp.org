@@ -97,7 +97,7 @@ enableSharingButtons = true
 [menu]
 [[menu.main]]
     name = "Home"
-    url = "/en"
+    url = "/"
     weight = 1
     identifier = "home"
     pre = "<i class='fa fa-heart'></i>&nbsp;"
