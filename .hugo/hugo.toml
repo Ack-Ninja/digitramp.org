@@ -9,6 +9,7 @@ defaultContentLanguageInSubdir = true
 enableMissingTranslationPlaceholders = false
 googleAnalytics = "G-FVDM84RPVX"
 
+paginate = 10
 disableReadOtherPosts = false
 enableSharingButtons = true
 
@@ -92,7 +93,7 @@ enableSharingButtons = true
 [menu]
 [[menu.main]]
     name = "Home"
-    url = "/"
+    url = "/content/en"
     weight = 1
     identifier = "home"
     pre = "<i class='fa fa-heart'></i>&nbsp;"
