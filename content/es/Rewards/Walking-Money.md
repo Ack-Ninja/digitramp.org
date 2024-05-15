@@ -1,8 +1,8 @@
- +++
- title = 'Recompensas por caminar'
- date = 2024-02-03T15:50:29+01:00
- draft = false
- +++
++++
+title = 'Recompensas por caminar'
+date = 2024-02-03T15:50:29+01:00
+draft = false
++++
 
  | Nombre de la App | Recompensas y Ganancias                   | Disponibilidad de la Plataforma | Ingreso Estimado     |
  |------------------|-------------------------------------------|---------------------------------|----------------------|

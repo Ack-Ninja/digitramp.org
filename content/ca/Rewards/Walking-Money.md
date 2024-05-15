@@ -1,8 +1,8 @@
- +++
- title = 'Recompenses per caminar'
- date = 2024-02-03T15:50:29+01:00
- draft = false
- +++
++++
+title = 'Recompenses per caminar'
+date = 2024-02-03T15:50:29+01:00
+draft = false
++++
 
  | Nom de l'App  | Recompenses i guanys                       | Disponibilitat de la plataforma | Ingressos estimats   |
  |---------------|--------------------------------------------|---------------------------------|----------------------|

@@ -1,8 +1,8 @@
- +++
- title = 'Récompenses pour la marche'
- date = 2024-02-03T15:50:29+01:00
- draft = false
- +++
++++
+title = 'Récompenses pour la marche'
+date = 2024-02-03T15:50:29+01:00
+draft = false
++++
 
  | Nom de l'appli | Récompenses & Gains                        | Disponibilité sur les plateformes | Revenu estimé        |
  |----------------|--------------------------------------------|-----------------------------------|----------------------|

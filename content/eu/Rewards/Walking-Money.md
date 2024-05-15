@@ -1,8 +1,8 @@
- +++
- title = 'Ibilaldiko sariak'
- date = 2024-02-03T15:50:29+01:00
- draft = false
- +++
++++
+title = 'Ibilaldiko sariak'
+date = 2024-02-03T15:50:29+01:00
+draft = false
++++
 
  | Apparen izena | Sariak eta irabaziak                        | Plataformaren eskuragarritasuna | Diru-sarrera estimatua |
  |---------------|---------------------------------------------|----------------------------------|------------------------|
