@@ -3,9 +3,12 @@ en: eu
 es: es
 fr: fr
 gl: es-ga
-ca: es-ca
-es-ca: es-ca
-ca-es: es-ca
+ca: es-ct
+es-ca: es-ct
+ca-es: es-ct
+eu: es-pv
+es-eu: es-pv
+eu-es: es-pv
 hi: in
 it: it
 ja: jp
