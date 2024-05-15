@@ -3,7 +3,7 @@
 # gpt-engineer can only read selected files. Including irrelevant files will degrade performance, cost additional tokens and potentially overflow token limit.
 
 [files]
-# "hugo.toml" = "selected"
+"hugo.toml" = "selected"
 # Makefile = "selected"
 # "go.mod" = "selected"
 # "go.sum" = "selected"
@@ -165,3 +165,4 @@
 # "themes/hugo-theme-techdoc/src/js/sidebar-menu.js" = "selected"
 # "themes/hugo-theme-techdoc/src/js/jquery.backtothetop/jquery.backtothetop.js" = "selected"
 # "themes/hugo-theme-techdoc/src/js/jquery.backtothetop/jquery.backtothetop.min.js" = "selected"
+# 

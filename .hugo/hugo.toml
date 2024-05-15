@@ -10,26 +10,56 @@ enableMissingTranslationPlaceholders = false
 googleAnalytics = "G-FVDM84RPVX"
 
 [languages]
-  [languages.de]
-    contentDir = 'content/de'
-    disabled = false
-    languageCode = 'de-DE'
-    languageDirection = 'ltr'
-    languageName = 'Deutsch'
-    title = 'Projekt Dokumentation'
-    weight = 1
-    [languages.de.params]
-      subtitle = 'Referenz, Tutorials und Erklärungen'
   [languages.en]
     contentDir = '../content/en'
     disabled = false
     languageCode = 'en-US'
     languageDirection = 'ltr'
     languageName = 'English'
-    title = 'Project Documentation'
+    title = 'Digitramp'
     weight = 2
     [languages.en.params]
-      subtitle = 'Reference, Tutorials, and Explanations'
+      subtitle = 'Nomad life 3.0: Reference, Tutorials, and Explanations'
+  [languages.fr]
+    contentDir = 'content/fr'
+    disabled = false
+    languageCode = 'fr-FR'
+    languageDirection = 'ltr'
+    languageName = 'Français'
+    title = 'Digitramp'
+    weight = 3
+    [languages.fr.params]
+      subtitle = 'La vie nomade 3.0 : Référence, Tutoriels et Explications'
+  [languages.es]
+    contentDir = 'content/es'
+    disabled = false
+    languageCode = 'es-ES'
+    languageDirection = 'ltr'
+    languageName = 'Español'
+    title = 'Digitramp'
+    weight = 4
+    [languages.es.params]
+      subtitle = 'Vida nómada 3.0: Referencia, Tutoriales y Explicaciones'
+  [languages.ca]
+    contentDir = 'content/ca'
+    disabled = false
+    languageCode = 'ca-ES'
+    languageDirection = 'ltr'
+    languageName = 'Català'
+    title = 'Digitramp'
+    weight = 5
+    [languages.ca.params]
+      subtitle = 'Vida nòmada 3.0: Referència, Tutoriales i Explicacions'
+  [languages.eu]
+    contentDir = 'content/eu'
+    disabled = false
+    languageCode = 'eu-ES'
+    languageDirection = 'ltr'
+    languageName = 'Euskera'
+    title = 'Digitramp'
+    weight = 6
+    [languages.eu.params]
+      subtitle = 'Nomad bizitza 3.0: Erreferentzia, Tutorialak eta Azalpenak'
 
 [params]
     title = "Digitramp's Notes"
