@@ -1,9 +1,0 @@
-[submodule ".hugo/themes/hugo-theme-techdoc"]
-	path = .hugo/themes/hugo-theme-techdoc
-	url = https://github.com/moul/hugo-theme-techdoc
-[submodule "themes/hello-4s3ti"]
-	path = themes/hello-4s3ti
-	url = https://github.com/4s3ti/hugo-theme-hello-4s3ti.git
-[submodule ".hugo/themes/hello-4s3ti"]
-	path = .hugo/themes/hello-4s3ti
-	url = https://github.com/4s3ti/hugo-theme-hello-4s3ti.git
