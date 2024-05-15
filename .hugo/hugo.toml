@@ -9,6 +9,9 @@ defaultContentLanguageInSubdir = true
 enableMissingTranslationPlaceholders = false
 googleAnalytics = "G-FVDM84RPVX"
 
+disableReadOtherPosts = false
+enableSharingButtons = true
+
 [languages]
   [languages.en]
     contentDir = '../content/en'
@@ -102,18 +105,3 @@ googleAnalytics = "G-FVDM84RPVX"
         startLevel = 2
         endLevel = 6
         ordered = true
-
-[outputs]
-    home = ["HTML", "RSS"]
-
-[permalinks]
-    [permalinks.page]
-        posts = '/:slug/'
-        wikis = '/:slug/'
-    [permalinks.section]
-        posts = '/posts/'
-        wikis = '/wikis/'
-
-#[module]
-#    [[module.imports]]
-#        path = "github.com/thingsym/hugo-theme-techdoc"
