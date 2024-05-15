@@ -35,7 +35,8 @@
                 <a href="{{ .Permalink }}" class="flag fi fi-{{ index $.Site.Data.langFlags (.Lang) }} fi-squared"></a>
                 <div class="dropdown-content">
                   {{ range (where $.Translations ".Lang" "!=" ".Lang") }}
-		  <a title="{{ .Language }}"  class="flag fi fi-{{ index $.Site.Data.langFlags (.Lang) }} fi-squared" href="{{ .Permalink }}">{{ .Lang.LanguageName }}</a>
+		  <a title="{{ .Language }}"  class="flag fi fi-{{ index $.Site.Data.langFlags (.Lang) }} fi-squared" href="{{ .Permalink }}">
+		    {{ .Language.LanguageName }}</a>
                   {{ end }}
                 </div>
             </li>
