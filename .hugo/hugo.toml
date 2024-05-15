@@ -37,7 +37,7 @@ defaultContentLanguage = "en"
 
 
 [permalinks]
-  posts = "/posts/:year/:month/:title/"
+  posts = "/content/:lang/:title/"
 
 [author]
   name = "Joy Doe"
@@ -269,7 +269,7 @@ defaultContentLanguage = "en"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "posts/"
+    url        = "content/"
   [[menu.main]]
     identifier = "tools"
     name       = "Tools"
