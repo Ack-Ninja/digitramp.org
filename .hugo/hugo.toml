@@ -67,7 +67,6 @@ enableSharingButtons = true
 
 [params]
     title = "Digitramp's Notes"
-    #images = ["images/og-image.png"] # static/images
     description = "Parallel World"
 
     github_repository = "https://github.com/ack-ninja/digitramp.org"
@@ -93,7 +92,7 @@ enableSharingButtons = true
 [menu]
 [[menu.main]]
     name = "Home"
-    url = "/content/en"
+    url = "/en"
     weight = 1
     identifier = "home"
     pre = "<i class='fa fa-heart'></i>&nbsp;"
