@@ -4,8 +4,8 @@
         <div class="post-info">
             {{ if .IsTranslated }}
               {{ if not .Params.hidelanguage }}
-                {{ range .Translations }}
                 {{ i18n "postAvailable" }}
+                {{ range .Translations }}
                     <a href="{{ .Permalink }}"><span class="flag fi fi-{{ index $.Site.Data.langFlags (.Lang) }} fi-squared"></span></a>
                 {{ end}}
               {{ end }}
