@@ -27,24 +27,20 @@
 		</div>
 		{{ end }}
 		{{ end }}
+
 		{{ if .Site.IsMultiLingual }}
 		{{- if .Site.Params.EnableGlobalLanguageMenu }}
-		{{ $siteLanguages := site.Languages}}
-		{{ $pageLang := .Page.Lang}}
-		{{- range .Page.AllTranslations }}
-		{{ $translation := . }}
-		{{- range sort $siteLanguages "Weight" "asc" }}
-		{{- if eq $translation.Lang .Lang }}
-		{{ if eq $pageLang .Lang}}
-		<a class="flagselect" href="{{ $translation.Permalink | relURL }}">{{ .Params.languageNameShort }}</a>
-		{{ else }}
-		<a class="flagnoselect" href="{{ $translation.Permalink | relURL }}">{{ .Params.languageNameShort }}</a>
-		{{ end }}
-		{{- end }}
-		{{- end }}
-		{{- end }}
-		</div>
-		</li>
+		<div class="submenu">
+			<li class="dropdown">
+				<a href="{{ .Permalink }}" class="flag fi fi-{{ index $.Site.Data.langFlags (.Lang) }} fi-squared"></a>
+				<div class="dropdown-content">
+					{{ range (where $.Translations ".Lang" "!=" ".Lang") }}
+					<a title="{{ .Language }}"  class="flag fi fi-{{ index $.Site.Data.langFlags (.Lang) }} fi-squared" href="{{ .Permalink }}">
+						{{ .Language.LanguageName }}</a>
+					{{ .Params.languageName }}</a>
+				{{ end }}
+				</div>
+			</li>
 		</div>
 		{{- end }}
 		{{ end }}
