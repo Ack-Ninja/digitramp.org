@@ -5,9 +5,31 @@ metaDataFormat = "yaml"
 theme = 'hugo-theme-techdoc'
 defaultContentLanguage = "en"
 DefaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 enableMissingTranslationPlaceholders = false
 googleAnalytics = "G-FVDM84RPVX"
+
+[languages]
+  [languages.de]
+    contentDir = 'content/de'
+    disabled = false
+    languageCode = 'de-DE'
+    languageDirection = 'ltr'
+    languageName = 'Deutsch'
+    title = 'Projekt Dokumentation'
+    weight = 1
+    [languages.de.params]
+      subtitle = 'Referenz, Tutorials und Erklärungen'
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Project Documentation'
+    weight = 2
+    [languages.en.params]
+      subtitle = 'Reference, Tutorials, and Explanations'
 
 [params]
     title = "Digitramp's Notes"
