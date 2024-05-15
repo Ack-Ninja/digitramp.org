@@ -14,7 +14,7 @@ googleAnalytics = "G-FVDM84RPVX"
 # disqusShortname = ""
 
 archetypeDir = "archetypes"
-contentDir   = "content"
+contentDir   = "/"
 dataDir      = "data"
 layoutDir    = "layouts"
 publishDir   = "public"
@@ -269,7 +269,7 @@ defaultContentLanguage = "en"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "content/"
+    url        = "/"
   [[menu.main]]
     identifier = "tools"
     name       = "Tools"
