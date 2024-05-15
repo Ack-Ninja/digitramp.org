@@ -6,7 +6,7 @@
               {{ if not .Params.hidelanguage }}
                 {{ i18n "postAvailable" }}
                 {{ range .Translations }}
-                    <a href="{{ .Permalink }}"><span class="flag fi fi-{{ index $.Site.Data.langFlags (.Lang) }} fi-squared"></span></a>
+                    <a href="{{ .Permalink }}"><span class="flag fi fi-{{ index $.Site.Data.langFlags (.Lang) }} fi-squared flag-large"></span></a>
                 {{ end}}
               {{ end }}
             {{ end }}
