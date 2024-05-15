@@ -36,7 +36,7 @@
                 <div class="dropdown-content">
                   {{ range (where $.Translations ".Lang" "!=" ".Lang") }}
 		  <a title="{{ .Language }}"  class="flag fi fi-{{ index $.Site.Data.langFlags (.Lang) }} fi-squared" href="{{ .Permalink }}">
-		    {{ .Language.LanguageName }}</a>
+		    {{ .Params.languageName }}</a>
                   {{ end }}
                 </div>
             </li>
