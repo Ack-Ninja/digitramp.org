@@ -33,7 +33,7 @@
         <div class="submenu">
             <li class="dropdown">
               {{ range first 1 (where $.Translations ".Lang" "!=" ".Lang") }}
-                <a href="{{ .Permalink }}" class="flag flag-icon fi-{{ index $.Site.Data.langFlags (.Lang) }} flag-icon-squared"></a>
+                <a href="{{ .Permalink }}" class="flag fi fi-{{ index $.Site.Data.langFlags (.Lang) }} fi-squared"></a>
               {{ end }}
                 <div class="dropdown-content">
                   {{ range after 1 (where $.Translations ".Lang" "!=" ".Lang") }}
