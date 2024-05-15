@@ -21,7 +21,7 @@ googleAnalytics = "G-FVDM84RPVX"
     [languages.en.params]
       subtitle = 'Nomad life 3.0: Reference, Tutorials, and Explanations'
   [languages.fr]
-    contentDir = 'content/fr'
+    contentDir = '../content/fr'
     disabled = false
     languageCode = 'fr-FR'
     languageDirection = 'ltr'
@@ -31,7 +31,7 @@ googleAnalytics = "G-FVDM84RPVX"
     [languages.fr.params]
       subtitle = 'La vie nomade 3.0 : Référence, Tutoriels et Explications'
   [languages.es]
-    contentDir = 'content/es'
+    contentDir = '../content/es'
     disabled = false
     languageCode = 'es-ES'
     languageDirection = 'ltr'
@@ -41,7 +41,7 @@ googleAnalytics = "G-FVDM84RPVX"
     [languages.es.params]
       subtitle = 'Vida nómada 3.0: Referencia, Tutoriales y Explicaciones'
   [languages.ca]
-    contentDir = 'content/ca'
+    contentDir = '../content/ca'
     disabled = false
     languageCode = 'ca-ES'
     languageDirection = 'ltr'
@@ -51,7 +51,7 @@ googleAnalytics = "G-FVDM84RPVX"
     [languages.ca.params]
       subtitle = 'Vida nòmada 3.0: Referència, Tutoriales i Explicacions'
   [languages.eu]
-    contentDir = 'content/eu'
+    contentDir = '../content/eu'
     disabled = false
     languageCode = 'eu-ES'
     languageDirection = 'ltr'
