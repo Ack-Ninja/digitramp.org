@@ -4,7 +4,10 @@ es: es
 fr: fr
 gl: es-ga
 eu: es-pv
-ca: es-ca
+es-eu: es-pv
+es-ca: es-ca
+eu-es: es-pv
+ca-es: es-ca
 hi: in
 it: it
 ja: jp
