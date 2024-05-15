@@ -32,7 +32,7 @@
         {{- if .Site.Params.EnableGlobalLanguageMenu }}
         <div class="submenu">
             <li class="dropdown">
-              {{ range first 1 (where $.Translations ".Lang" "==" ".Lang") }}
+              {{ range first 1 (where $.Translations ".Lang" "!=" ".Lang") }}
                 <a href="{{ .Permalink }}" class="flag fi fi-{{ index $.Site.Data.langFlags (.Lang) }} fi-squared"></a>
               {{ end }}
                 <div class="dropdown-content">
