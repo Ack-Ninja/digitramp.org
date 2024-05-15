@@ -1,0 +1,31 @@
+# Remove '#' to select a file.
+
+# gpt-engineer can only read selected files. Including irrelevant files will degrade performance, cost additional tokens and potentially overflow token limit.
+
+[files]
+# "404.html" = "selected"
+# "index.html" = "selected"
+# "partials/svg.html" = "selected"
+# "partials/head.html" = "selected"
+# "partials/pagination-single.html" = "selected"
+# "partials/favicons.html" = "selected"
+# "partials/categories.html" = "selected"
+# "partials/theme-toggle-icon.html" = "selected"
+ "partials/menu.html" = "selected"
+# "partials/sharing-buttons.html" = "selected"
+# "partials/subtitle.html" = "selected"
+# "partials/javascript.html" = "selected"
+# "partials/footer.html" = "selected"
+"partials/header.html" = "selected"
+# "partials/tags.html" = "selected"
+# "partials/pagination-list.html" = "selected"
+# "partials/social-icons.html" = "selected"
+# "partials/logo.html" = "selected"
+# "partials/lastmod.html" = "selected"
+# "shortcodes/image.html" = "selected"
+# "_default/list.html" = "selected"
+#"_default/single.html" = "selected"
+# "_default/baseof.html" = "selected"
+# "posts/rss.xml" = "selected"
+#"posts/single.html" = "selected"
+# 
