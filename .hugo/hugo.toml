@@ -40,7 +40,7 @@ defaultContentLanguage = "en"
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Joy Doe"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -106,7 +106,7 @@ defaultContentLanguage = "en"
   #
   # Enables the global language menu.
   #
-  enableGlobalLanguageMenu = true
+  EnableGlobalLanguageMenu = true
 
   # Shows Posts on the front/Home page
   showPosts = true
