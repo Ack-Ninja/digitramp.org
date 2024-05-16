@@ -1,11 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
+    <title>Digitramp 3.0</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Digitramp Contributors</copyright>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/ca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/</guid>
+      <description>DigiTramp Abraça el Camí Alternatiu!
+&amp;ndash;
+Benvinguts als Marges s sentiu fora de lloc en la societat convencional? DigiTramp ofereix un santuari per a aquells que naveguen per les àrees grises de la vida.
+Per què? n un món que valora la conformitat, DigiTramp es presenta com un far per a les persones que viuen al límit de les normes socials. Estem aquí per fomentar una comunitat que no només sobreviu, sinó que prospera en el que anomenem el món posterior: un espai per a aquells que han traspassat les fronteres tradicionals, buscant resiliència davant la incertesa sistèmica.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/</guid>
+      <description>DigiTramp Embrace the Alternative Path!
+Welcome to the Fringes Feeling out of place in conventional society? DigiTramp offers sanctuary for those navigating life&amp;rsquo;s gray areas.
+Why? In a world that values conformity, DigiTramp stands as a beacon for individuals living at the edge of societal norms. We&amp;rsquo;re here to foster a community that not only survives but thrives in what we call the after-world—a space for those who&amp;rsquo;ve stepped beyond traditional boundaries, seeking resilience in the face of systemic uncertainty.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/es/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/</guid>
+      <description>DigiTramp ¡Adopta el Camino Alternativo!
+Bienvenido a los Márgenes ¿Te sientes fuera de lugar en la sociedad convencional? DigiTramp ofrece un santuario para aquellos que navegan por las áreas grises de la vida.
+¿Por qué? En un mundo que valora la conformidad, DigiTramp se erige como un faro para individuos que viven al borde de las normas sociales. Estamos aquí para fomentar una comunidad que no solo sobrevive, sino que prospera en lo que llamamos el después-mundo—un espacio para aquellos que han traspasado los límites tradicionales, buscando resiliencia frente a la incertidumbre sistémica.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/eu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/</guid>
+      <description>DigiTramp Hartu Bide Alternatiboa!
+Ongi etorri Bazterretara Gizarte konbentzionalean lekurik ez? DigiTramp-ek babeslekua eskaintzen die bizitzaren eremu grisetan nabigatzen dutenentzat.
+Zergatik? Konformitatea balioesten duen mundu batean, DigiTramp gizarte-arauen ertzetan bizi diren pertsonentzako faroa da. Gure helburua da ez bakarrik bizirautea, baizik eta tradiziozko mugak gainditu dituztenek eta sistemaren ziurgabetasunaren aurrean erresilientzia bilatzen dutenek osatutako komunitate bat indartzea.
+Nola? DigiTramp zure gidaria da gaur egungo bizitzaren labirintoan zehar. Sistema nabigatzeko aholkuak, egokitzapen estrategiak eta biziraupen gidaliburuak barne hartzen dituzten baliabideekin, zure bidaia errazteko konpromisoa hartzen dugu.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/fr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/</guid>
+      <description>DigiTramp Embrassez le Chemin Alternatif!
+Bienvenue aux Marginaux Vous vous sentez déplacé dans la société conventionnelle? DigiTramp offre un sanctuaire pour ceux qui naviguent dans les zones grises de la vie.
+Pourquoi? Dans un monde qui valorise la conformité, DigiTramp se dresse comme un phare pour les individus vivant aux limites des normes sociétales. Nous sommes ici pour favoriser une communauté qui non seulement survit mais prospère dans ce que nous appelons l&amp;rsquo;après-monde : un espace pour ceux qui ont franchi les frontières traditionnelles, cherchant la résilience face à l&amp;rsquo;incertidume systémique.</description>
+    </item>
   </channel>
 </rss>
