@@ -538,11 +538,7 @@
                 href="http://localhost:1313/fr/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/frcategories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/fr/frseries/</loc>
-  </url><url>
-    <loc>http://localhost:1313/fr/frtags/</loc>
+    <loc>http://localhost:1313/fr/fr/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/search/</loc>
     <xhtml:link
@@ -570,6 +566,10 @@
                 hreflang="fr"
                 href="http://localhost:1313/fr/search/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/fr/fr/series/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fr/fr/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <xhtml:link

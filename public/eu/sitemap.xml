@@ -537,11 +537,7 @@
                 href="http://localhost:1313/eu/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/eu/eucategories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/eu/euseries/</loc>
-  </url><url>
-    <loc>http://localhost:1313/eu/eutags/</loc>
+    <loc>http://localhost:1313/eu/eu/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/eu/search/</loc>
     <xhtml:link
@@ -569,6 +565,10 @@
                 hreflang="eu"
                 href="http://localhost:1313/eu/search/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/eu/eu/series/</loc>
+  </url><url>
+    <loc>http://localhost:1313/eu/eu/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <xhtml:link

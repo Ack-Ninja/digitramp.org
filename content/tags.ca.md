@@ -1,6 +1,6 @@
 ---
 title: "Tags"
 layout: "tags"
-url: "/tags/"
+url: "/ca/tags/"
 summary: tags
 ---

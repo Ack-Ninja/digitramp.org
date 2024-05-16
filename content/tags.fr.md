@@ -1,6 +1,6 @@
 ---
 title: "Tags"
 layout: "tags"
-url: "/tags/"
+url: "/fr/tags/"
 summary: tags
 ---

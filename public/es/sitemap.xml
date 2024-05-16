@@ -506,11 +506,7 @@
                 href="http://localhost:1313/es/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/escategories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/es/esseries/</loc>
-  </url><url>
-    <loc>http://localhost:1313/es/estags/</loc>
+    <loc>http://localhost:1313/es/es/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/es/posts/learn-and-earn-crypto/</loc>
     <xhtml:link
@@ -565,6 +561,10 @@
                 hreflang="es"
                 href="http://localhost:1313/es/search/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/es/es/series/</loc>
+  </url><url>
+    <loc>http://localhost:1313/es/es/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
