@@ -10,8 +10,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fa"
-                href="http://localhost:1313/fa/"
+                hreflang="eu"
+                href="http://localhost:1313/eu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="http://localhost:1313/ca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/"
                 />
     <xhtml:link
                 rel="alternate"

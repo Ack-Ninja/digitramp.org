@@ -19,7 +19,7 @@ minify:
   disableXML: true
   # minifyOutput: true
 
-    languages:
+languages:
   en:
     languageName: "English"
     weight: 1

@@ -12,7 +12,17 @@
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/fa/sitemap.xml</loc>
+    <loc>http://localhost:1313/eu/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:1313/ca/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:1313/es/sitemap.xml</loc>
     
   </sitemap>
   
