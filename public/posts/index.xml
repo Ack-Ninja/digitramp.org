@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Digitramp 3.0</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Digitramp 3.0</description>
+    <title>Posts on Digitramp 3.0</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Digitramp 3.0</description>
     <image>
       <title>Digitramp 3.0</title>
       <url>http://localhost:1313/images/papermod-cover.png</url>
@@ -13,7 +13,7 @@
     <language>en</language>
     <copyright>Digitramp Contributors</copyright>
     <lastBuildDate>Sun, 04 Feb 2024 00:50:29 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CodeArena: Earn Through Coding</title>
       <link>http://localhost:1313/posts/codearena/</link>
@@ -158,13 +158,6 @@ Step 1: Download and Install the App Open the Google Play Store on your Android 
 Estimated Income: 0.1€ / month
 Google Opinion Rewards is a mobile app created by the Google Surveys team that allows you to earn Google Play credit by answering short surveys. In this tutorial, we will guide you through the process of getting started with Google Opinion Rewards and maximizing your earning potential.
 Step 1: Download and Install the App Open the Google Play Store on your Android device.</description>
-    </item>
-    <item>
-      <title>Tags</title>
-      <link>http://localhost:1313/tags/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/</guid>
-      <description>tags</description>
     </item>
   </channel>
 </rss>
