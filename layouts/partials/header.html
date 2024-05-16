@@ -103,7 +103,9 @@
                     {{- if $separator }}<li>|</li>{{ end }}
                     {{- range . -}}
                     {{- if ne $lang .Lang }}
+                    {{- if ne "homeinfoparams" .Lang }}
                     <li>
+
 			    <span class="flag fi fi-{{ .Language.Params.languageFlagCode | default "eu" }} fi-squared"></span>
                         <a href="{{- .Permalink -}}" title="{{ .Language.Params.languageAltTitle | default (.Language.LanguageName | emojify) | default (.Lang | title) }}"
                             aria-label="{{ .Language.LanguageName | default (.Lang | title) }}">
@@ -114,6 +116,7 @@
                             {{- end -}}
                         </a>
                     </li>
+                    {{- end -}}
                     {{- end -}}
                     {{- end}}
                 </ul>
