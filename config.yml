@@ -19,7 +19,7 @@ minify:
   disableXML: true
   # minifyOutput: true
 
-languages:
+    languages:
   en:
     languageName: "English"
     weight: 1
@@ -42,30 +42,30 @@ languages:
           url: https://github.com/adityatelange/hugo-PaperMod/wiki/
 
   fr:
-    languageName: ":fr:"
+    languageName: "Français"
     weight: 2
     taxonomies:
-      category: FRcategories
-      tag: FRtags
-      series: FRseries
+      category: frcategories
+      tag: frtags
+      series: frseries
     menu:
       main:
         - name: Archive
           url: archives/
           weight: 5
-        - name: FRTags
-          url: frtags
+        - name: Tags
+          url: frtags/
           weight: 10
-        - name: FRCategories
-          url: frcategories
+        - name: Categories
+          url: frcategories/
           weight: 10
-        - name: FRSeries
-          url: frseries
+        - name: Series
+          url: frseries/
           weight: 10
         - name: NullLink
           url: "#"
 
-    # custom params for each language should be under [langcode].parms - hugo v0.120.0
+    # custom params for each language should be under [langcode].params - hugo v0.120.0
     params:
       languageAltTitle: French
       profileMode:
@@ -73,8 +73,6 @@ languages:
         title: PaperMod
         imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
         imageTitle: ProfileMode image
-        # imageWidth: 120
-        # imageHeight: 120
         subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
         buttons:
           - name: Blog
@@ -82,24 +80,114 @@ languages:
           - name: Profile Mode
             url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
 
-  fa:
-    languagedirection: rtl
+  eu:
+    languageName: "Euskara"
     weight: 3
-    title: PaperMod RTL
     taxonomies:
-      category: FAcategories
-      tag: FAtags
-      series: FAseries
+      category: eucategories
+      tag: eutags
+      series: euseries
     menu:
       main:
-        - name: FATags
-          url: fatags
+        - name: Archive
+          url: archives/
+          weight: 5
+        - name: Tags
+          url: eutags/
           weight: 10
-    # custom params for each language should be under [langcode].parms - hugo v0.120.0
+        - name: Categories
+          url: eucategories/
+          weight: 10
+        - name: Series
+          url: euseries/
+          weight: 10
+
     params:
-      homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: Welcome to RTL layout
+      languageAltTitle: Basque
+      profileMode:
+        enabled: true
+        title: PaperMod
+        imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
+        imageTitle: ProfileMode image
+        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+        buttons:
+          - name: Blog
+            url: posts
+          - name: Profile Mode
+            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+
+  ca:
+    languageName: "Català"
+    weight: 4
+    taxonomies:
+      category: cacategories
+      tag: catags
+      series: caseries
+    menu:
+      main:
+        - name: Archive
+          url: archives/
+          weight: 5
+        - name: Tags
+          url: catags/
+          weight: 10
+        - name: Categories
+          url: cacategories/
+          weight: 10
+        - name: Series
+          url: caseries/
+          weight: 10
+
+    params:
+      languageAltTitle: Catalan
+      profileMode:
+        enabled: true
+        title: PaperMod
+        imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
+        imageTitle: ProfileMode image
+        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+        buttons:
+          - name: Blog
+            url: posts
+          - name: Profile Mode
+            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+
+  es:
+    languageName: "Español"
+    weight: 5
+    taxonomies:
+      category: escategories
+      tag: estags
+      series: esseries
+    menu:
+      main:
+        - name: Archive
+          url: archives/
+          weight: 5
+        - name: Tags
+          url: estags/
+          weight: 10
+        - name: Categories
+          url: escategories/
+          weight: 10
+        - name: Series
+          url: esseries/
+          weight: 10
+
+    params:
+      languageAltTitle: Spanish
+      profileMode:
+        enabled: true
+        title: PaperMod
+        imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
+        imageTitle: ProfileMode image
+        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+        buttons:
+          - name: Blog
+            url: posts
+          - name: Profile Mode
+            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+
 
 outputs:
   home:
