@@ -109,7 +109,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Nomad Life 3.0"
+  description: "Nomad 3.0"
   author: DigiTramp
   # author: ["Me", "You"] # multiple authors
 
@@ -143,15 +143,24 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "PaperMod's Demo"
+    Title: "Nomad 3.0 - Parallel World"
     Content: >
-      👋 Welcome to demo page of Hugo's theme PaperMod!
+      Welcome to the Fringes
+      Feeling out of place in conventional society? DigiTramp offers sanctuary for those navigating life's gray areas.
+      
+      Why?
+      In a world that values conformity, DigiTramp stands as a beacon for individuals living at the edge of societal norms. We're here to foster a community that not only survives but thrives in what we call the after-world—a space for those who've stepped beyond traditional boundaries, seeking resilience in the face of systemic uncertainty.
+      
+      How?
+      DigiTramp is your guide through the maze of modern life. With resources ranging from system navigation tips, adaptation strategies, to survival guides, we're dedicated to easing your journey. Our platform is a treasure trove of knowledge aimed at helping you move stealthily and effectively through the complexities of today's world.
+      
+      What?
+      Join our community here and connect with fellow digital nomads. Exchange experiences, gain insights, and together, let's redefine what it means to live unconventionally. DigiTramp is more than a platform; it's a movement towards embracing the unique, the unconventional, and the daring.
+      
+      "Survival is an art, mastered by those who shape their destiny."
+      
+      Dive into the adventure that DigiTramp promises. Celebrate your individuality, adapt to the ever-changing landscape, and empower yourself to carve a fulfilling existence in the gray zones of society.
 
-      - **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
-
-      - Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media .
-
-      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
 
   socialIcons:
     - name: github
