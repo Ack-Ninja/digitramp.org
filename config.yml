@@ -142,7 +142,7 @@ languages:
 
     params:
       languageAltTitle: Catalan
-      languageFlagCode: "es-ca"
+      languageFlagCode: "es-ct"
       profileMode:
         enabled: true
         title: PaperMod
