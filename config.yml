@@ -38,39 +38,35 @@ languages:
         - name: Tags
           url: tags/
           weight: 10
-        - name: WiKi
-          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
 
   fr:
     languageName: "Français"
     weight: 2
     taxonomies:
-      category: frcategories
-      tag: frtags
-      series: frseries
+      category: fr/categories
+      tag: fr/tags
+      series: fr/series
     menu:
       main:
         - name: Archive
-          url: archives/
+          url: fr/archives/
           weight: 5
         - name: Tags
-          url: frtags/
+          url: fr/tags/
           weight: 10
         - name: Categories
-          url: frcategories/
+          url: fr/categories/
           weight: 10
         - name: Series
-          url: frseries/
+          url: fr/series/
           weight: 10
-        - name: NullLink
-          url: "#"
 
     # custom params for each language should be under [langcode].params - hugo v0.120.0
     params:
       languageFlagCode: "fr"
       languageAltTitle: French
       profileMode:
-        enabled: true
+        enabled: false
         title: PaperMod
         imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
         imageTitle: ProfileMode image
@@ -104,29 +100,29 @@ languages:
     languageName: "Euskara"
     weight: 3
     taxonomies:
-      category: eucategories
-      tag: eutags
-      series: euseries
+      category: eu/categories
+      tag: eu/tags
+      series: eu/series
     menu:
       main:
         - name: Archive
-          url: archives/
+          url: eu/archives/
           weight: 5
         - name: Tags
-          url: eutags/
+          url: eu/tags/
           weight: 10
         - name: Categories
-          url: eucategories/
+          url: eu/categories/
           weight: 10
         - name: Series
-          url: euseries/
+          url: eu/series/
           weight: 10
 
     params:
       languageFlagCode: "es-pv"
       languageAltTitle: Basque
       profileMode:
-        enabled: true
+        enabled: false
         title: PaperMod
         imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
         imageTitle: ProfileMode image
@@ -160,29 +156,29 @@ languages:
     languageName: "Català"
     weight: 4
     taxonomies:
-      category: cacategories
-      tag: catags
-      series: caseries
+      category: ca/categories
+      tag: ca/tags
+      series: ca/series
     menu:
       main:
         - name: Archive
-          url: archives/
+          url: ca/archives/
           weight: 5
         - name: Tags
-          url: catags/
+          url: ca/tags/
           weight: 10
         - name: Categories
-          url: cacategories/
+          url: ca/categories/
           weight: 10
         - name: Series
-          url: caseries/
+          url: ca/series/
           weight: 10
 
     params:
       languageAltTitle: Catalan
       languageFlagCode: "es-ct"
       profileMode:
-        enabled: true
+        enabled: false
         title: PaperMod
         imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
         imageTitle: ProfileMode image
@@ -216,29 +212,29 @@ languages:
     languageName: "Español"
     weight: 5
     taxonomies:
-      category: escategories
-      tag: estags
-      series: esseries
+      category: es/categories
+      tag: es/tags
+      series: es/series
     menu:
       main:
         - name: Archive
-          url: archives/
+          url: es/archives/
           weight: 5
         - name: Tags
-          url: estags/
+          url: es/tags/
           weight: 10
         - name: Categories
-          url: escategories/
+          url: es/categories/
           weight: 10
         - name: Series
-          url: esseries/
+          url: es/series/
           weight: 10
 
     params:
       languageFlagCode: "es"
       languageAltTitle: Spanish
       profileMode:
-        enabled: true
+        enabled: false
         title: PaperMod
         imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
         imageTitle: ProfileMode image
