@@ -132,10 +132,24 @@ TrashBack és una aplicació que et permet guanyar regals ajudant al planeta. Am
 Taula de Continguts Per què? Com? Començar Explorar i Recollir Escombraries Guanyar Punts Canviar Punts per Regals Què?</description>
     </item>
     <item>
-      <title>Tags</title>
-      <link>http://localhost:1313/tags/</link>
+      <title>Categories</title>
+      <link>http://localhost:1313/ca/categories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/</guid>
+      <guid>http://localhost:1313/ca/categories/</guid>
+      <description>categories</description>
+    </item>
+    <item>
+      <title>Series</title>
+      <link>http://localhost:1313/ca/series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/series/</guid>
+      <description>series</description>
+    </item>
+    <item>
+      <title>Tags</title>
+      <link>http://localhost:1313/ca/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/tags/</guid>
       <description>tags</description>
     </item>
   </channel>

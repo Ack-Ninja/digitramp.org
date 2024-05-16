@@ -121,6 +121,13 @@
 ¿Por qué? Combatir el Desperdicio de Alimentos Cada año, se desperdician millones de toneladas de alimentos debido a la producción excesiva, productos no vendidos y regulaciones estrictas de fechas de caducidad.</description>
     </item>
     <item>
+      <title>Categories</title>
+      <link>http://localhost:1313/es/categories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/categories/</guid>
+      <description>categories</description>
+    </item>
+    <item>
       <title>Gana dinero aprendiendo sobre criptomonedas</title>
       <link>http://localhost:1313/es/posts/learn-and-earn-crypto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -128,10 +135,17 @@
       <description>Descubre cómo ganar criptomonedas participando en programas de Aprende y Gana. Entiende los beneficios, pasos y consejos para maximizar tus ganancias.</description>
     </item>
     <item>
-      <title>Tags</title>
-      <link>http://localhost:1313/tags/</link>
+      <title>Series</title>
+      <link>http://localhost:1313/es/series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/</guid>
+      <guid>http://localhost:1313/es/series/</guid>
+      <description>series</description>
+    </item>
+    <item>
+      <title>Tags</title>
+      <link>http://localhost:1313/es/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/tags/</guid>
       <description>tags</description>
     </item>
   </channel>

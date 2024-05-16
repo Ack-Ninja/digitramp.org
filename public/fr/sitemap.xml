@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/fr/tags/applications-de-fitness/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/fr/</loc>
     <lastmod>2024-03-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -35,6 +38,22 @@
                 href="http://localhost:1313/fr/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/categories/finance/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/finance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/categories/finance/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/gagner-de-largent/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/fr/posts/</loc>
     <lastmod>2024-03-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -62,6 +81,9 @@
                 hreflang="fr"
                 href="http://localhost:1313/fr/posts/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/r%C3%A9compenses-de-marche/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/posts/walking-money/</loc>
     <lastmod>2024-03-02T00:00:00+00:00</lastmod>
@@ -91,6 +113,31 @@
                 href="http://localhost:1313/fr/posts/walking-money/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/categories/sant%C3%A9/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/style-de-vie-sain/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/achat-intelligent/</loc>
+    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/coupons/</loc>
+    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/coupons/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/coupons/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/%C3%A9conomies/</loc>
+    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/fr/posts/too-good-to-go/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -118,6 +165,15 @@
                 hreflang="fr"
                 href="http://localhost:1313/fr/posts/too-good-to-go/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/finance-personnelle/</loc>
+    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/gaspillage-alimentaire/</loc>
+    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/impact-environnemental/</loc>
+    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/posts/la-cuponera/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
@@ -147,6 +203,38 @@
                 href="http://localhost:1313/fr/posts/la-cuponera/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/tags/shopping/</loc>
+    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/shopping/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/shopping/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/style-de-vie/</loc>
+    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/too-good-to-go/</loc>
+    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/too-good-to-go/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/too-good-to-go/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/vie-durable/</loc>
+    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/fr/posts/get-crow-workers/</loc>
     <lastmod>2023-10-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -173,6 +261,49 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/posts/get-crow-workers/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/entra%C3%AEnement-danimaux/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/entra%C3%AEnement-danimaux/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/entra%C3%AEnement-de-corbeaux/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/faune/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/interaction-avec-la-faune/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/renforcement-positif/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/%C3%A9cologique/</loc>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/r%C3%A9compenses-environnementales/</loc>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/revenu-alternatif/</loc>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/revenu-%C3%A9cologique/</loc>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/trashback/</loc>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/trashback/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/trashback/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/posts/trashback-rewards/</loc>
@@ -203,6 +334,37 @@
                 href="http://localhost:1313/fr/posts/trashback-rewards/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/tags/vie-durable/</loc>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/cr%C3%A9dit-google-play/</loc>
+    <lastmod>2023-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/google-opinion-rewards/</loc>
+    <lastmod>2023-10-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/google-opinion-rewards/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/google-opinion-rewards/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/opportunit%C3%A9s-de-revenus/</loc>
+    <lastmod>2023-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/revenu-passif/</loc>
+    <lastmod>2023-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/revenu-passif/</loc>
+    <lastmod>2023-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/sondages/</loc>
+    <lastmod>2023-10-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/fr/posts/how-to-make-money-google-rewards/</loc>
     <lastmod>2023-10-08T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -230,6 +392,50 @@
                 hreflang="fr"
                 href="http://localhost:1313/fr/posts/how-to-make-money-google-rewards/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/apprendre-et-gagner/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/codage/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/codage/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/codearena/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/codearena/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/codearena/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/crypto/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/crypto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/crypto/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/cryptomonnaie/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/cryptomonnaie/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/d%C3%A9fis/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/posts/learn-and-earn-crypto/</loc>
     <lastmod>2023-10-07T00:00:00+00:00</lastmod>
@@ -287,6 +493,9 @@
                 href="http://localhost:1313/fr/posts/codearena/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/categories/g%C3%A9n%C3%A9ration-de-revenus/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/fr/posts/stacking-crypto/</loc>
     <lastmod>2023-10-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -314,6 +523,40 @@
                 hreflang="fr"
                 href="http://localhost:1313/fr/posts/stacking-crypto/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/investissement/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/mise/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/opportunit%C3%A9s-de-revenus/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/revenu/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/bat/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/bat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/bat/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/durabilit%C3%A9/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/environnement/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/gagner-des-r%C3%A9compenses/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/posts/how-to-make-money-trashback/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
@@ -371,6 +614,15 @@
                 href="http://localhost:1313/fr/posts/bat-brave-rewards/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/tags/navigateur-brave/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/ramassage-des-d%C3%A9chets/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/technologie/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/fr/posts/sweatcoin-walking-rewards/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -397,6 +649,32 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/posts/sweatcoin-walking-rewards/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/fitness/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/fitness/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/fitness/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/freelance/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/freelance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/freelance/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/posts/how-to-make-money-solving-git-issues/</loc>
@@ -427,6 +705,51 @@
                 href="http://localhost:1313/fr/posts/how-to-make-money-solving-git-issues/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/tags/gitpay/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/gitpay/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/gitpay/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/monnaie-num%C3%A9rique/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/open-source/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/open-source/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/open-source/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/sweatcoin/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/sweatcoin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/sweatcoin/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/carte-sim/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/fr/posts/google-opinion-rewards/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -455,6 +778,9 @@
                 href="http://localhost:1313/fr/posts/google-opinion-rewards/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/tags/cr%C3%A9dits-google-play/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/fr/posts/get-paid-for-housekeeping/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -481,6 +807,22 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/posts/get-paid-for-housekeeping/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/garde-de-maison/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/internet/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/internet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/internet/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/posts/internet-from-shared-scooter/</loc>
@@ -511,6 +853,24 @@
                 href="http://localhost:1313/fr/posts/internet-from-shared-scooter/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/tags/mode-de-vie-nomade/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/nomade-digital/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/petit-boulot/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/revenu-alternatif/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/travail-%C3%A0-distance/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/trottinette-%C3%A9lectrique/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/fr/archives/</loc>
     <xhtml:link
                 rel="alternate"
@@ -538,7 +898,37 @@
                 href="http://localhost:1313/fr/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/fr/categories/</loc>
+    <loc>http://localhost:1313/fr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eu"
+                href="http://localhost:1313/eu/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="http://localhost:1313/ca/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="homeinfoparams"
+                href="http://localhost:1313/homeinfoparams/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/categories/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/search/</loc>
     <xhtml:link
@@ -567,11 +957,34 @@
                 href="http://localhost:1313/fr/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/fr/series/</loc>
+    <loc>http://localhost:1313/fr/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eu"
+                href="http://localhost:1313/eu/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="http://localhost:1313/ca/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/series/"
+                />
   </url><url>
-    <loc>http://localhost:1313/fr/fr/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -580,17 +993,17 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="eu"
-                href="http://localhost:1313/tags/"
+                href="http://localhost:1313/eu/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="http://localhost:1313/tags/"
+                href="http://localhost:1313/ca/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/tags/"
+                href="http://localhost:1313/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -600,7 +1013,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/tags/"
+                href="http://localhost:1313/fr/tags/"
                 />
   </url>
 </urlset>

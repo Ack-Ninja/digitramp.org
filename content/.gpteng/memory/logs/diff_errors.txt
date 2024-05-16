@@ -1,3 +1,36 @@
 
 2024-05-15T17:30:29.393264
 
+
+2024-05-16T17:49:16.386787
+In Hunk:@@ -1,6 +1,6 @@
+ ---
+ title: "Series"
+-layout: "series"
++type: "series"
+ url: "/series/"
+ summary: "All series"
+ ---
+ 
+, there was at least one mismatch.
+
+In Hunk:@@ -1,6 +1,6 @@
+ ---
+ title: "Tags"
+-layout: "tags"
++type: "tags"
+ url: "/tags/"
+ summary: "All tags"
+ ---
+ 
+, there was at least one mismatch.
+
+In Hunk:@@ -1,6 +1,6 @@
+ ---
+ title: "Categories"
+-layout: "categories"
++type: "categories"
+ url: "/categories/"
+ summary: "All categories"
+ ---
+, there was at least one mismatch.
