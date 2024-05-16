@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Finance on Digitramp 3.0</title>
+    <link>http://localhost:1313/categories/finance/</link>
+    <description>Recent content in Finance on Digitramp 3.0</description>
+    <image>
+      <title>Digitramp 3.0</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en</language>
+    <copyright>Digitramp Contributors</copyright>
+    <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/finance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maximize Your Savings with La Cuponera</title>
+      <link>http://localhost:1313/posts/la-cuponera/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/la-cuponera/</guid>
+      <description>Discover how La Cuponera can transform your shopping experience by providing easy access to a wide range of discounts and deals.</description>
+    </item>
+    <item>
+      <title>Walking Rewards: Turn Your Steps into Income</title>
+      <link>http://localhost:1313/posts/walking-money/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/walking-money/</guid>
+      <description>Discover how walking can earn you rewards and even cash through various apps. Learn the benefits, methods, and outcomes of using walking rewards apps.</description>
+    </item>
+    <item>
+      <title>Generate Passive Income with Your Cryptos</title>
+      <link>http://localhost:1313/posts/stacking-crypto/</link>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/stacking-crypto/</guid>
+      <description>Learn how to generate passive income by staking your cryptocurrency. This guide covers the essentials from choosing the right crypto to monitoring your staking rewards.</description>
+    </item>
+    <item>
+      <title>Get Paid to Learn About Crypto</title>
+      <link>http://localhost:1313/posts/learn-and-earn-crypto/</link>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/learn-and-earn-crypto/</guid>
+      <description>Explore how to earn cryptocurrency by participating in Learn and Earn programs. Understand the benefits, steps, and tips for maximizing your earnings.</description>
+    </item>
+    <item>
+      <title>Generating Income with Basic Attention Token (BAT) Using the Brave Browser</title>
+      <link>http://localhost:1313/posts/bat-brave-rewards/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/bat-brave-rewards/</guid>
+      <description>A comprehensive guide on how to earn Basic Attention Token (BAT) using the Brave browser, including steps to get started and additional earning opportunities.</description>
+    </item>
+    <item>
+      <title>Get Paid to Solve Git Issues</title>
+      <link>http://localhost:1313/posts/how-to-make-money-solving-git-issues/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/how-to-make-money-solving-git-issues/</guid>
+      <description>A guide to earning money by solving open-source issues and contributing to projects on Gitpay and similar platforms.</description>
+    </item>
+    <item>
+      <title>How to Earn Money with Sweatcoin</title>
+      <link>http://localhost:1313/posts/sweatcoin-walking-rewards/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sweatcoin-walking-rewards/</guid>
+      <description>A guide on how to earn and maximize earnings with the Sweatcoin app by walking and being active.</description>
+    </item>
+    <item>
+      <title>Get Paid for House Sitting: A Comprehensive Guide</title>
+      <link>http://localhost:1313/posts/get-paid-for-housekeeping/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/get-paid-for-housekeeping/</guid>
+      <description>A detailed guide on how to make money through house sitting, covering everything from finding opportunities to excelling in the role.</description>
+    </item>
+  </channel>
+</rss>
