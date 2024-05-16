@@ -1,0 +1,108 @@
+
+2024-05-16T14:46:51.419579
+In @@ -1,5 +1,11 @@
+ rom googletrans import Translator, LANGUAGES
+ 
+ ef translate_text(text, dest_language):
+    translator = Translator()
+    translation = translator.translate(text, dest=dest_language)
+    return translation.text
+ 
+ ef translate_file(file_path):
+    with open(file_path, 'r') as file:
+        content = file.read()
+ 
+    translations = {}
+    for lang in ['eu', 'fr', 'ca', 'es', 'en']:  # ISO-639-1 codes for Euskera, French, Català, Spanish, English
+        translations[LANGUAGES[lang]] = translate_text(content, lang)
+ 
+    return translations
+ ``
+ 
+ ## Modifications to Existing Markdown Files
+ 
+ e need to ensure that each markdown file can hold content in five different languages. This involves structuring each file to have sections for each language.
+ 
+ ## Example Modification for `La-Cuponera.md`
+ 
+ ``diff
+ +++
+ title = 'La Cuponera'
+ date = 2024-02-03T22:50:29+01:00
+ draft = false
+ +++
++
++## English
++
++<Original English Content Here>
++
++## Euskera
++
++<Translated Euskera Content Here>
++
++## French
++
++<Translated French Content Here>
++
++## Català
++
++<Translated Català Content Here>
++
++## Spanish
++
++<Translated Spanish Content Here>
+:The starting line of the diff @@ -1,5 +1,11 @@
+ rom googletrans import Translator, LANGUAGES
+ 
+ ef translate_text(text, dest_language):
+    translator = Translator()
+    translation = translator.translate(text, dest=dest_language)
+    return translation.text
+ 
+ ef translate_file(file_path):
+    with open(file_path, 'r') as file:
+        content = file.read()
+ 
+    translations = {}
+    for lang in ['eu', 'fr', 'ca', 'es', 'en']:  # ISO-639-1 codes for Euskera, French, Català, Spanish, English
+        translations[LANGUAGES[lang]] = translate_text(content, lang)
+ 
+    return translations
+ ``
+ 
+ ## Modifications to Existing Markdown Files
+ 
+ e need to ensure that each markdown file can hold content in five different languages. This involves structuring each file to have sections for each language.
+ 
+ ## Example Modification for `La-Cuponera.md`
+ 
+ ``diff
+ +++
+ title = 'La Cuponera'
+ date = 2024-02-03T22:50:29+01:00
+ draft = false
+ +++
++
++## English
++
++<Original English Content Here>
++
++## Euskera
++
++<Translated Euskera Content Here>
++
++## French
++
++<Translated French Content Here>
++
++## Català
++
++<Translated Català Content Here>
++
++## Spanish
++
++<Translated Spanish Content Here>
+ does not exist in the code
+
+2024-05-16T14:48:04.752306
+

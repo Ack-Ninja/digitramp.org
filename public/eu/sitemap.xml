@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/eu/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="http://localhost:1313/ca/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eu"
+                href="http://localhost:1313/eu/archives/"
+                />
+  </url><url>
     <loc>http://localhost:1313/eu/</loc>
     <xhtml:link
                 rel="alternate"
@@ -34,5 +61,59 @@
     <loc>http://localhost:1313/eu/euseries/</loc>
   </url><url>
     <loc>http://localhost:1313/eu/eutags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/eu/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="http://localhost:1313/ca/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eu"
+                href="http://localhost:1313/eu/search/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eu"
+                href="http://localhost:1313/tags/"
+                />
   </url>
 </urlset>
