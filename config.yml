@@ -31,13 +31,16 @@ languages:
       main:
         - name: Archive
           url: archives
-          weight: 5
+          weight: 1
         - name: Search
-          url: search/
-          weight: 10
+          url: search
+          weight: 2
         - name: Tags
-          url: tags/
-          weight: 10
+          url: tags
+          weight: 3
+        - name: Categories
+          url: categories
+          weight: 4
 
   fr:
     languageName: "Français"
@@ -49,17 +52,17 @@ languages:
     menu:
       main:
         - name: Archive
-          url: /fr/archives
-          weight: 5
+          url: archives
+          weight: 1
         - name: Tags
-          url: /fr/tags/
-          weight: 10
+          url: tags
+          weight: 2
         - name: Categories
-          url: /fr/categories
-          weight: 10
+          url: categories
+          weight: 3
         - name: Series
-          url: /fr/series
-          weight: 10
+          url: series
+          weight: 4
 
     # custom params for each language should be under [langcode].params - hugo v0.120.0
     params:
@@ -103,23 +106,23 @@ languages:
     languageName: "Euskara"
     weight: 3
     taxonomies:
-      category: eu/categories
-      tag: eu/tags
-      series: eu/series
+      category: categories
+      tag: tags
+      series: series
     menu:
       main:
         - name: Archive
-          url: eu/archives/
-          weight: 5
+          url: archives
+          weight: 1
         - name: Tags
-          url: eu/tags/
-          weight: 10
+          url: tags
+          weight: 2
         - name: Categories
-          url: eu/categories/
-          weight: 10
+          url: categories
+          weight: 3
         - name: Series
-          url: eu/series/
-          weight: 10
+          url: series
+          weight: 4
 
     params:
       languageFlagCode: "es-pv"
@@ -163,23 +166,23 @@ languages:
     languageName: "Català"
     weight: 4
     taxonomies:
-      category: ca/categories
-      tag: ca/tags
-      series: ca/series
+      category: categories
+      tag: tags
+      series: series
     menu:
       main:
         - name: Archive
-          url: ca/archives/
-          weight: 5
+          url: archives
+          weight: 1
         - name: Tags
-          url: ca/tags/
-          weight: 10
+          url: tags
+          weight: 2
         - name: Categories
-          url: ca/categories/
-          weight: 10
+          url: categories
+          weight: 3
         - name: Series
-          url: ca/series/
-          weight: 10
+          url: series
+          weight: 4
 
     params:
       languageAltTitle: Catalan
@@ -223,23 +226,23 @@ languages:
     languageName: "Español"
     weight: 5
     taxonomies:
-      category: es/categories
-      tag: es/tags
-      series: es/series
+      category: categories
+      tag: tags
+      series: series
     menu:
       main:
         - name: Archive
-          url: es/archives/
-          weight: 5
+          url: archives
+          weight: 1
         - name: Tags
-          url: es/tags/
-          weight: 10
+          url: tags
+          weight: 2
         - name: Categories
-          url: es/categories/
-          weight: 10
+          url: categories
+          weight: 3
         - name: Series
-          url: es/series/
-          weight: 10
+          url: series
+          weight: 4
 
     params:
       languageFlagCode: "es"
