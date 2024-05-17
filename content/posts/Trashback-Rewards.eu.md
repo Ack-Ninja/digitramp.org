@@ -1,41 +1,69 @@
 ---
 author: ["Joy Doe"]
-title: "Trashback Sariak: Zakarrontzia Bilatzen Zaborra Bilatzen"
-date: 2023-10-09
-description: "Ikasi nola dirua irabazteko ingurua garbitzen lagunduz TrashBack aplikazioarekin."
-summary: "Aurkitu nola erabili TrashBack aplikazioa ingurua garbitzeko eta sariak irabazteko. Gida honek hasierako pausoak, zaborra bilduma, puntuak irabaztea eta hauek oparietarako trukatzea azaltzen ditu."
-tags: ["TrashBack", "Ingurumeneko Sariak", "Ingurumena Jatorrizkoa", "Bizimodu Jasangarria"]
-categories: ["Irabazi Alternatiboa", "Ingurumenaren aldeko"]
+title: "Trashback Rewards: Zaborra Bilera Irabazteko Aukera"
+date: "2023-10-06"
+description: "Ikasi nola erronka garbia ekinez TrashBack aplikazioarekin sariak irabazteko. Gida hau azaltzen du nola hasteko, zabor bildu, puntuak irabazteko eta sariak atxikitzeko."
+summary: "Deskubritu nola kontribuitu planetari garbiagoa izan eta TrashBack aplikazioarekin sariak irabazi. Gida honek hastetik atzerako guztiak hartzen ditu, puntuak opariak lor ditzan."
+tags: ["TrashBack", "Ingurumen Sariak", "Ekologikoki Diru-sarrerak", "Bizi Jasangarriak"]
+categories: ["Diru-sarrera Alternatiboak", "Jasangarritasuna"]
 ShowToc: true
 TocOpen: true
 ---
 
-# Trashback Sariak: Zakarrontzia Bilatzen Zaborra Bilatzen
+# Trashback Rewards: Zaborra Bilera Irabazteko Aukera
+
+## Aurkibidea
+- [Zergatik?](#zergatik)
+- [Nola?](#nola)
+  - [Hasteko](#hasteko)
+  - [Esploratu eta Zabor Bildu](#esploratu-eta-zabor-bildu)
+  - [Puntuak Irabazteko](#puntuak-irabazteko)
+  - [Puntuak Oparietarako Atxikitu](#puntuak-oparietarako-atxikitu)
+- [Zer?](#zer)
 
 ## Zergatik?
 
-Ingurua garbitzea zaiozkan zerbait nobilea, baina zergatik ez zara saria jasoko zure ahaleginetarako? TrashBackek aukera berezia eskaintzen du horretarako. TrashBacken parte hartuz, planeta garbiago batera ekarpena egin dezakezu eta sariak irabazi zure ahaleginetarako. Gida honek erakutsiko dizu nola aprobetxatu TrashBack aplikazioa.
+Ingurumen-arazoak kontuan hartzen dituen munduan, positiboki ekarpen egiteko moduak aurkitzea, pertsonalki ere onuragarri izatea oso motibatzailea izan daiteke. TrashBack aplikazioak erantzun berritzailea eskaintzen du horren aurrean, erabiltzaileei ingurua garbitzen laguntzen zaizkie eta sariak ematen. Hau ez bakarrik ingurua garbi mantentzea laguntzen du, baizik eta jarrera erantzukizunpean sustatuz sari tangibletan bidez.
 
 ## Nola?
 
 ### Hasteko
 
-1. **Deskargatu TrashBack Aplikazioa**: Bisitatu zure aplikazio denda (doan eskuragarria) eta bilatu "TrashBack." Deskargatu eta instalatu aplikazioa zure smartphonean.
-2. **Izena eman**: Ireki TrashBack aplikazioa eta amaitu erregistratzeko prozesua. Izena eman zure posta elektroniko helbidearekin edo sare sozialen bidez. Pausu hau pare bat minutu hartuko du soilik.
+1. **Deskargatu TrashBack Aplikazioa**: Ziur zaitez zure aplikazio-dendara (doan eskuragarri) eta bilatu "TrashBack." Deskargatu eta instalatu aplikazioa zure smartphonean.
 
-### Esploratzea eta Zaborra Bilduma
+2. **Izena eman**: Ireki TrashBack aplikazioa eta amaitu erregistratzeko prozesua. Izena eman zure posta elektroniko helbidearekin edo sare sozialen kontuekin. Une hau minutu gutxi beharko du.
 
-1. **Irten Kanpoan**: Utzi zure etxea eta esploratu natura. Bisitatu parkeak, hondartzak, basoak edo inguru bereko beste edozein kanpo-egoera.
-2. **Zaborra Bildu**: Esploratzen joan zarelako, begiratu zaborra eta zaborra inguruan. Zaborra aurkitzen duzunean, hartu eta txukundu zuzenean.
-3. **Argazkiak Atera**: Zaborra aurkitzen duzunean, erabili TrashBack aplikazioa bildutako elementuen argazkiak ateratzeko. Ziurtatu argazkiak argiak direla eta hartutako zaborra erakusten dutela.
+### Esploratu eta Zabor Bildu
 
-### Puntuak Irabaztea
+1. **Irten Kanpoan**: Utzi zure etxea eta esploratu natura. Bisitatu parkeak, hondartzak, basoak edo zure inguruan dagoen edozein kanpo-egoera.
+
+2. **Zaborra Bildu**: Esploratzen duzunean, jarraitu zaborra eta zaborra inguruan aurkitzen den lekuetan. Zaborra aurkitzen denean, hartu eta garbi utzi.
+
+3. **Argazkiak atera**: Zaborra aurkitzean, erabili TrashBack aplikazioa bildutako elementuak irudikatzeko argazkiak ateratzeko. Ziurtatu argazkiak argiak direla eta hartutako zaborra erakusten duela.
+
+### Puntuak Irabazteko
 
 1. **Argazkiak Igo**: Ireki TrashBack aplikazioa eta igo bildutako zaborraren argazkiak. Ziurtatu zaborra aurkitu duzun lekuari buruzko informazio zehatza ematen duzula.
-2. **Puntuak Irabazi**: Igotako bakoitzean, zehatz batzuk irabaziko dituzu puntuak. Puntu kopurua zabor mota eta bildumaaren arabera alda daiteke.
-3. **Hilabeteko eta Urteroko Sailkapena**: Parte hartu hilabeteko eta urteroko sailkapenetan gehieneko puntu kopurua irabaziz. Sailkapenetan goian eginez, opari eta sari gehigarriak irabazi ditzakezu.
 
-### Puntuak Oparietarako Trukatzea
+2. **Puntuak Irabazi**: Argazki bakoitzak zenbaki zehatz bat irabaziko dizkizu. Puntu kopurua zabor mota eta kopuruaren arabera aldatu daiteke.
 
-1. **Puntuak Bildu**: Jarraitu zaborra bilduz, argazkiak ateratuz eta puntuak irabaziz. Kopuru handiagoa bilduz, gehiago trukatu ahal izango duzu.
-2. **Opari Eskuragarriak Esploratu**: Ireki TrashBack aplikazioa eta arakatu beraien partnereen eskuragarri dauden opariak. Aukeratzeko
+3. **Hilabeteko eta Urteroko Sailkapena**: Parte hartu hilabeteko eta urteroko sailkapenetan puntu kopuru handiena irabaziz. Sailkapenetan goitik irabaziz, opari eta sari gehiago irabaz ditzakezu.
+
+### Puntuak Oparietarako Atxikitu
+
+1. **Puntuak Bildu**: Jarraitu zaborra bildutzen, argazkiak ateratzen eta puntuak irabazten. Kopuru handiagoa lortu ahalko duzu, opari gehiago atxikitzeko.
+
+2. **Eskuragarri Dauden Opariak Esploratu**: Ireki TrashBack aplikazioa eta arakatu beraien partnereek eskaintzen dituzten opariak. Aukeratzeko aukera anitz izango dituzu.
+
+3. **Puntuak Atxikitu**: Oparia aukeratu duzunean, hautatu aplikazioan eta atxikitu zure puntuak opari horretarako. Ukituak jarraitu behar dituzu saria jasotzeko.
+
+## Zer?
+
+TrashBack programan parte hartzen baduzu, hainbat emaitza lortzen dituzu:
+
+- **Ingurumeneko Ondorioa**: Zaborra kenduz eta jarrera erantzukizunpean sustengatuz ingurua garbia egiten laguntzen duzu.
+- **Pertsonalki Sariak**: Irabazitako puntuak opari anitzetarako alda daitezke, zure ahaleginak merezi izateko.
+- **Komunitate Partaidetza**: Elkartu planetari eragin positiboa izateko konprometituta dauden pertsonen komunitate batean.
+- **Aitortzea**: Igo hilabeteko eta urteroko sailkapenetan sari eta aitortza gehiago irabazteko zure ahaleginak.
+
+Zorionak! Orain prest zaude TrashBack mugimenduan parte hartu, natura garbiagoa egiteko eta sariak irabazteko. Deskargatu aplikazioa, ateratzera joan eta gaur zaborra bildu hasteko!

@@ -1,63 +1,91 @@
 ---
 author: ["Joy Doe"]
-title: "Zure Kriptomoneten Bidezko Irabazia Sortu"
-date: 2023-10-07
-description: "Ikasi nola irabazteko pasiboki kriptomoneta stakeatzen. Gida honek aukera egiten du zure stakeatzen diren sariak kontrolatzeko eta aukeratzeko."
-summary: "Zabaldu zure kriptomoneten potentziala stakeatzen eta pasiboki irabazia lortzen. Gida honek hasi ahal izateko pauso bat-batean metodoa eskaintzen du."
-tags: ["kriptomoneta", "pasiboki irabazia", "stakeak", "inbertsioa"]
+title: "Zure Diru Sarrera Sortu Zure Cryptokin"
+date: "2023-10-05"
+description: "Ikasi zure kriptomoneten aktiboak stakeatzen eta bloke kateen bidezko egiaztapenean parte hartuz diru sarrera pasiboa lortzeko moduak."
+summary: "Aukeratu kriptomoneta egokia hautatu, digitaleko poltsa bat ezarri eta stake-a hornitzeko zerbitzu bat hautatu bezala, kripto stake-aren bidez diru sarrera pasiboa lortzeko pausoak ezagutzeko."
+tags: ["kripto", "diru sarrera pasiboa", "staking", "bloke katea"]
 categories: ["Finantza", "Kriptomoneta"]
 ShowToc: true
 TocOpen: true
 ---
 
-# Zure Kriptomoneten Bidezko Irabazia Sortu
+# Zure Cryptokin Diru Sarrera Sortu
 
-> **Emandako Irakurketa Denbora Estimatua:** ~ 2-4 ordu / hilabete
+> **Emandako Aurreikuspen Denbora:** ~ 2-4 ordu/hilabete
 >
-> **Iraupen Potentziala:** % 12ra arte
+> **Diru Sarrerak:** 12% arte
 > 
-> Inbertsio eta merkatu baldintzen arabera aldatzen da
-
-## Sarrera
-
-Kriptomoneta stakea kriptomoneten sareen baimenak eginez pasiboki irabazia lortzeko metodoa da. Zure kripto aktiboak stakeatuz, sarearen eragiketaetan parte hartzen duzu eta erantzukizun moduan kriptomoneta gehigarriak jasotzen dituzu. Gida honek zure kriptomoneta stakeatzearen prozesua azalduko dizu eta zure irabaziak maksimizatzeko lagunduko dizu.
+> Inbertsio eta merkatu baldintzen arabera aldakorra da
 
 ## Zergatik?
 
-Kriptomoneta stakeak irabazteko modu aukeragarria izan daiteke. Honek aukera ematen dizu:
-- **Sariak Irabazi:** Kriptomoneta gehigarria irabazi aktiboki trukatzea.
-- **Sareari Laguntza Eman:** Kontributu sarearen segurtasun eta eraginkortasunari.
-- **Irabazi Sarrerak Diversifikatu:** Gehitu beste sarrerak zure portafolio finantzarioan.
+Kriptomoneta stake-a blockchain kateen egiaztapen eta segurtasunean parte hartzen duzunean diru sarrera pasiboa lortzeko modu bat da. Zure kripto aktiboak stakeatuz, sarearen operazioetan parte hartzen duzu eta erantzukizun moduan, kriptomoneta gehigarri batzuk jasoko dituzu. Gida honek lagunduko dizu zergatik stake-a balio duen bidera joan behar duzun eta nola hasteko.
 
 ## Nola?
 
-### 1. Pauso: Hautatu Stakeak Ahal Duzun Kriptomoneta
+### 1. Hautatu Stake-a Egiteko Aukera Duena Kriptomoneta
 
-Hautatu stakeak ahal duen kriptomoneta bat. Ez dute guztiak stake egiteko gaitasuna, beraz, iker ezazu eta hautatu zure inbertsio helburuekin bat egiten duen bat. Zenbait aukera ospetsuak honako hauek dira:
+Aukeratu stake-a onartzen duen kriptomoneta bat. Ez dute guztiak stake-a onartzen, beraz, iker egin eta zure inbertsio helburuekin bat datorren bat hautatu. Aukeratutako aukerak honako hauek dira:
+
 - **Ethereum (ETH)**
 - **Cardano (ADA)**
 - **Polkadot (DOT)**
 
-### 2. Pauso: Ezarri Digital Wallet bat
+### 2. Ezarri Digitaleko Poltsa Bat
 
-Zure kriptoak stakeatzeko, stakeak egiten duen digital wallet bat behar duzu. Zenbait wallet aukera ospetsuak honako hauek dira:
+Zure kriptoa stakeatzeko, stake-a onartzen duen digitaleko poltsa bat behar duzu. Zenbait poltsa aukerak honako hauek dira:
+
 - **MetaMask**
 - **Trust Wallet**
 - **Ledger Live**
 
-Instalatu aukeratutako wallet-a eta jarraitu argibideak ezartzeko.
+Aukeratutako poltsa instalatu eta jarrazi beharrezkoak diren aginduak jarraitu.
 
-### 3. Pauso: Transferitu Kriptomoneta Zure Wallet-era
+### 3. Transferitu Kriptomoneta Zure Poltsara
 
-Zure wallet-a ezarri ondoren, zure stakeatzeko nahi duzun kriptomoneta kopurua transferitu borsatik edo beste wallet batetik zure stakeak ahal duen wallet-era.
+Zure poltsa prest dagoenean, zure inbertsio helburuak dituzun kriptomoneta kopurua transferitu exchangera edo beste poltsa batetik zure stake-a onartzen duen poltsara.
 
-### 4. Pauso: Hautatu Stakeak Hornitzailea
+### 4. Hautatu Stake-a Hornitzailea
 
-Hautatu kriptomoneta hori stakeatzen duen hornitzaile edo plataforma bat. Adibideak dira:
-- **Borsak:** Binance, Coinbase, Kraken
-- **DeFi Platformak:** Aave, Compound
+Aukeratu kriptomoneta stake-a onartzen duen hornitzaile edo plataforma bat. Adibideak honako hauek dira:
 
-### 5. Pauso: Delegatu edo Autostakeatu
+- **Exchange-ak:** Binance, Coinbase, Kraken
+- **DeFi Plataformak:** Aave, Compound
 
-Kriptomoneta eta stakeak hornitzailearen arabera, aukera izango duzu zure diruak delegatzea hornitzaile bati edo autostakeatzea:
-- **Delegatzea:** Hautatu hornit
+### 5. Delegatu edo Stake Egitea
+
+Kriptomoneta eta stake hornitzailearen arabera, aukera izango duzu zure dirua delegatzea egiaztatzaile bati edo stakea bere burua egitea.
+
+- **Delegatzea:** Zure izenean stakeatzeko egiaztatzaile bat hautatzea da.
+- **Stake Egitea Bere Burua:** Zuzenean stake egiteko aukera ematen du.
+
+### 6. Ulertu Stake-aren Baldintzak
+
+Jarraitzen aurretik, ziurtatu zure diruaren stake-aren baldintzak eta baldintzak ulertzen dituzula, barne:
+
+- **Blokeatzeko Periodoa:** Zure diruak blokeatuta egongo diren denbora.
+- **Aldaketa Arriskuak:** Merkatuaren bortizkeriak, ebaketa arriskuak, etab.
+- **Sari Banaketa Modeloa:** Nola eta noiz banatuko diren sariak.
+
+### 7. Stakeatu Zure Kriptomoneta
+
+Jarraitu zure aukeratutako stake hornitzaileak emandako aginduak zure kriptomoneta stakeatzeko. Normalean, hau suposatzen du hautatu nahi duzun kopurua eta stake-aren transakzioa egiaztatzea. Kontuan izan stakearekin loturiko tasak dauden.
+
+### 8. Jarraitu Zure Stake Sariak
+
+Stakeatu ondoren, jarraitu zure sariak. Gehienetan, stake plataformek dasborra edo interfaze bat ematen dute non zure irabazien jarraibideak ikus ditzakezu. Sariak normalean banatzen dira erregularik, kriptomoneta eta stake hornitzailearen arabera.
+
+### 9. Berrinbertitu edo Atera Diruak
+
+Stake sariak irabaziz gero, erabaki dezakezu berrinbertitzeko aukera aukeratu zure stake-aren kopurua konpontzen duen bitartean edo zure sariak ateratzeko erabaki. Inbertsio helburuetan eta merkatu baldintzetan oinarritutako erabaki argiak hartu. 
+
+## Zer?
+
+Gida honetan jarraitzeko, kripto stake-arekin dirua irabazteko ikasi duzu. Stakeak hainbat abantaila eskaintzen ditu:
+
+- **Diru Sarrera Pasiboa:** Sariak aktiboki merkatari gabe irabazteko.
+- **Sarean Eginiko Eginbideak:** Bloke katearen segurtasuna eta operazioak lagundu.
+- **Diruaren Itzulpen Altua:** Kriptomoneta eta merkatu baldintzen arabera, stakeak irabazien handiak ematen ditu.
+
+Gogoratu ikerketa sakona egin behar dela, merkatuaren joera eguneratu eta stake-arekin loturiko arriskuak baloratu behar dituzula inbertitzen aurretik. Kripto stakeak diru sarrera pasiboa lortzeko bidea eskaintzen du, baina oinarrizko ikuspegi luze batekin hurbildu eta zure inbertsio-portfolioa dibertsifikatu beharrezkoa da.

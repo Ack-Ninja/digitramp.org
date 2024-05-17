@@ -1,22 +1,21 @@
 ---
-autor: ["Joy Doe"]
-títol: "Cobra per recollir escombraries"
-data: "2023-10-05"
-descripció: "Aprèn com guanyar recompenses recollint escombraries i ajudant al medi ambient amb l'aplicació TrashBack."
-resum: "Descobreix com guanyar diners i regals recollint escombraries i contribuint a un medi ambient més net utilitzant l'aplicació TrashBack."
-etiquetes: ["recollida d'escombraries", "medi ambient", "guanyar recompenses", "TrashBack"]
-categories: ["ingressos alternatius", "sostenibilitat"]
+author: ["Joy Doe"]
+title: "Cobra per recollir escombraries"
+date: 2023-10-06
+description: "Descobreix com pots guanyar diners i ajudar al medi ambient recollint escombraries amb l'aplicació TrashBack."
+summary: "Aprèn com utilitzar l'aplicació TrashBack per guanyar recompenses recollint i eliminant escombraries, contribuint a un planeta més net."
+tags: ["TrashBack", "medi ambient", "recompenses", "ingressos alternatius"]
+categories: ["Sostenibilitat", "Oportunitats d'ingressos"]
 ShowToc: true
 TocOpen: true
 ---
 
 # Cobra per recollir escombraries
 
-> Temps d'Atenció Estimat: Com vulguis
->
-> Ingressos Estimats: Variables
+> **Temps d'Atenció Estimat:** Depèn de tu  
+> **Ingressos Estimats:** Variables
 
-TrashBack és una aplicació que et permet guanyar regals ajudant al planeta. Amb TrashBack, pots contribuir a netejar el medi ambient mentre també ets recompensat pels teus esforços. En aquest tutorial, t'orientarem en el procés d'utilitzar l'aplicació TrashBack per guanyar diners amb les escombraries.
+TrashBack és una aplicació innovadora que et recompensa per ajudar a netejar el medi ambient. Utilitzant TrashBack, pots contribuir a un planeta més net mentre guanyes regals i recompenses. Aquesta guia t'explicarà com començar amb TrashBack i com maximitzar els teus guanys.
 
 ## Taula de Continguts
 - [Per què?](#per-què)
@@ -29,30 +28,39 @@ TrashBack és una aplicació que et permet guanyar regals ajudant al planeta. Am
 
 ## Per què?
 
-### Impacte Ambiental
-Recollir escombraries ajuda a reduir la contaminació, protegir la fauna i mantenir la bellesa natural dels espais exteriors. Participant en la recollida d'escombraries, contribueixes a un planeta més saludable.
-
-### Recompenses Personals
-TrashBack ofereix un incentiu únic per netejar el medi ambient oferint recompenses i regals. Això fa que l'activitat sigui no només satisfactòria sinó també beneficiosa econòmicament.
+Netejar el medi ambient és essencial per mantenir ecosistemes i comunitats saludables. TrashBack incentiva aquesta acció positiva oferint recompenses pels teus esforços. No només contribueixes a un planeta més net, sinó que també rebs beneficis tangibles a canvi.
 
 ## Com?
 
 ### Començar
 
-1. **Descarrega l'Aplicació TrashBack**: Visita la teva botiga d'aplicacions (disponible de forma gratuïta) i busca "TrashBack". Descarrega i instal·la l'aplicació al teu telèfon intel·ligent.
-
-2. **Registra't**: Obre l'aplicació TrashBack i completa el procés de registre. Registra't utilitzant la teva adreça de correu electrònic o comptes de xarxes socials. Aquest pas només hauria de trigar uns minuts.
+1. **Descarrega l'Aplicació de TrashBack**: Visita la teva botiga d'aplicacions i busca "TrashBack." Descarrega i instal·la l'aplicació al teu telèfon intel·ligent.
+2. **Registra't**: Obre l'aplicació de TrashBack i completa el procés de registre utilitzant la teva adreça de correu electrònic o comptes de xarxes socials.
 
 ### Explorar i Recollir Escombraries
 
-1. **Surt a l'Exterior**: Surts de casa i explora la natura. Visita parcs, platges, boscos o qualsevol altra ubicació a l'aire lliure propera a tu.
-
-2. **Recull les Escombraries**: Mentre explores, estigues atent a la brossa i les escombraries de la zona. Sempre que vegis escombraries, recull-les i disposa-les adequadament.
-
-3. **Fes Fotos**: Quan trobis escombraries, utilitza l'aplicació TrashBack per fer fotos dels objectes que has recollit. Assegura't que les fotos siguin clares i mostrin les escombraries que has recollit.
+1. **Surt a l'aire lliure**: Visita parcs, platges, boscos o qualsevol ubicació a l'aire lliure.
+2. **Recull les Escombraries**: Recull la brossa i elimina-la correctament.
+3. **Fes Fotos**: Utilitza l'aplicació de TrashBack per fer fotos clares de les escombraries que has recollit.
 
 ### Guanyar Punts
 
-1. **Puja les Fotos**: Obre l'aplicació TrashBack i puja les fotos de les escombraries que has recollit. Assegura't de proporcionar informació precisa sobre la ubicació on has trobat les escombraries.
+1. **Puja les Fotos**: Obre l'aplicació de TrashBack i puja les fotos de les escombraries que has recollit, proporcionant informació precisa de la ubicació.
+2. **Guanya Punts**: Cada foto pujada guanya punts, variant segons el tipus i la quantitat d'escombraries.
+3. **Classificació Mensual i Anual**: Participa en les classificacions guanyant el major nombre de punts per aconseguir recompenses addicionals.
 
-2. **Guanya Punts**: Cada foto pujada et guanyarà un cert nombre de punts. El nombre exacte de punts pot variar en funció del tip
+### Canviar Punts per Regals
+
+1. **Acumula Punts**: Continua recollint escombraries i guanyant punts.
+2. **Explora els Regals Disponibles**: Navega pels regals disponibles dels socis de TrashBack.
+3. **Canvia Punts**: Selecciona i canvia els teus punts per un regal escollit, seguint les instruccions de l'aplicació.
+
+## Què?
+
+Utilitzant TrashBack, contribueixes activament a un medi ambient més net i rebs recompenses pels teus esforços. Els beneficis inclouen:
+
+- **Impacte Ambiental**: Ajuda a reduir la brossa i millorar els ecosistemes locals.
+- **Recompenses i Regals**: Guanya punts que es poden canviar per diversos regals.
+- **Participació Comunitària**: Uneix-te a una comunitat de persones afins dedicades a la conservació ambiental.
+
+Descarrega avui mateix l'aplicació de TrashBack, surt a l'aire lliure i comença a fer la diferència mentre guanyes recompenses!

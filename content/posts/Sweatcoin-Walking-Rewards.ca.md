@@ -1,26 +1,20 @@
 ---
 author: ["Joy Doe"]
-title: "Com guanyar diners amb Sweatcoin"
-date: "2023-10-02"
-description: "Una guia sobre com guanyar i maximitzar els guanys amb l'aplicació Sweatcoin caminant i sent actiu."
-summary: "Aprèn com guanyar moneda digital caminant amb Sweatcoin, connecta-la a Google Fitness i acumula els teus guanys per a interessos."
-tags: ["Sweatcoin", "Recompenses per caminar", "Moneda digital", "Fitness"]
+title: "Recompenses per caminar de Sweatcoin"
+date: "2023-10-06"
+description: "Aprèn com guanyar diners amb Sweatcoin caminant i acumulant els teus guanys per a interessos."
+summary: "Descobreix com utilitzar l'aplicació Sweatcoin per guanyar moneda digital caminant i maximitza els teus guanys a través de l'acumulació."
+tags: ["Sweatcoin", "Recompenses per caminar", "Ingressos passius", "Salut"]
 categories: ["Finances", "Salut"]
 ShowToc: true
 TocOpen: true
 ---
 
-# Com guanyar diners amb Sweatcoin
-
-> Temps d'Atenció Estimat: 10 minuts / mes
->
-> Ingressos Estimats: 0,1€ / mes
-
-Sweatcoin és una aplicació popular que et permet guanyar moneda digital, coneguda com a Sweatcoins, simplement caminant i sent actiu. En aquesta guia, aprendràs com guanyar diners amb Sweatcoin i com maximitzar els teus guanys.
+# Recompenses per caminar de Sweatcoin
 
 ## Per què?
 
-Amb l'auge de les monedes digitals i l'enfocament cada vegada major en la salut i el fitness, Sweatcoin ofereix una oportunitat única per combinar-ho tot. Per mantenir-te actiu, pots guanyar recompenses digitals que es poden canviar per diversos productes i serveis. Aquesta guia t'ajudarà a entendre com començar i treure el màxim profit de la teva rutina de caminar.
+Caminar és una manera fàcil i accessible de mantenir-se sa. Sweatcoin va un pas més enllà recompensant-te amb moneda digital pels teus passos diaris. Aquesta aplicació no només promou un estil de vida més saludable, sinó que també ofereix una manera de guanyar ingressos passius amb un esforç mínim.
 
 ## Com?
 
@@ -30,29 +24,54 @@ Abans de començar, assegura't de tenir el següent:
 
 - Un telèfon intel·ligent (iOS o Android)
 - Connexió a internet
-- L'aplicació Sweatcoin descarregada des de [sweatco.in](https://sweatco.in/)
-- L'aplicació Sweatwallet descarregada des de [sweateconomy.com/download-wallet](https://sweateconomy.com/download-wallet)
+- L'aplicació Sweatcoin descarregada de [sweatco.in](https://sweatco.in/)
+- L'aplicació Sweatwallet descarregada de [sweateconomy.com/download-wallet](https://sweateconomy.com/download-wallet)
 - Un compte de Google Fitness
 
-### Pas 1: Descarrega les Aplicacions
+### Pas 1: Descarrega les aplicacions
 
-Primer, descarrega l'aplicació Sweatcoin des del lloc web oficial [sweatco.in](https://sweatco.in/) i instal·la-la al teu telèfon intel·ligent. Després, descarrega l'aplicació Sweatwallet des de [sweateconomy.com/download-wallet](https://sweateconomy.com/download-wallet) i instal·la-la també. Aquestes aplicacions són essencials per guanyar i gestionar les teves Sweatcoins.
+Primer, descarrega i instal·la l'aplicació Sweatcoin de [sweatco.in](https://sweatco.in/) al teu telèfon intel·ligent. Després, descarrega i instal·la l'aplicació Sweatwallet de [sweateconomy.com/download-wallet](https://sweateconomy.com/download-wallet).
 
-### Pas 2: Obre l'Aplicació Sweatcoin
+### Pas 2: Obre l'aplicació Sweatcoin
 
-Un cop hagis instal·lat l'aplicació Sweatcoin, obre-la al teu telèfon intel·ligent. Et demanarà que creïs un compte o et connectis si ja en tens un. Segueix les instruccions a la pantalla per configurar el teu compte.
+Obre l'aplicació Sweatcoin al teu telèfon intel·ligent. Crea un compte o inicia la sessió si ja en tens un. Segueix les instruccions a la pantalla per completar la configuració.
 
 ### Pas 3: Connecta amb Google Fitness
 
-Per mesurar amb precisió els teus passos i guanyar Sweatcoins, es recomana connectar l'aplicació Sweatcoin a Google Fitness. Si no tens un compte de Google Fitness, pots crear-ne un de forma gratuïta. Per connectar-te, segueix aquests passos:
+Per mesurar amb precisió els teus passos i guanyar Sweatcoins, connecta l'aplicació Sweatcoin amb Google Fitness:
 
 1. Obre l'aplicació Sweatcoin.
-2. Vés al menú de configuració, normalment accessible des de la cantonada superior esquerra o dreta de l'aplicació.
-3. Cerca una opció per connectar o enllaçar amb Google Fitness.
-4. Segueix les indicacions per autoritzar la connexió entre les dues aplicacions.
+2. Vés al menú de configuració.
+3. Busca una opció per connectar o enllaçar amb Google Fitness.
+4. Segueix les indicacions per autoritzar la connexió.
 
 ### Pas 4: Guanya Sweatcoins
 
-Ara que has configurat l'aplicació i l'has connectat a Google Fitness, pots començar a guanyar Sweatcoins. L'aplicació rastreja els teus passos i els converteix en Sweatcoins, que es poden canviar per diverses recompenses.
+Amb l'aplicació configurada i connectada a Google Fitness, pots començar a guanyar Sweatcoins:
 
-1. Assegura't que l'aplicació Sweatcoin estigui funcionant en seg
+1. Assegura't que l'aplicació Sweatcoin estigui en funcionament en segon pla.
+2. L'aplicació comptarà els teus passos i els convertirà en Sweatcoins.
+3. Consulta l'aplicació regularment per veure els teus guanys.
+
+### Pas 5: Acumula Sweatcoins per a Interessos
+
+Per maximitzar els teus guanys, utilitza la funció "Jar" a l'aplicació Sweatwallet per acumular els teus Sweatcoins per a interessos:
+
+1. Obre l'aplicació Sweatwallet.
+2. Inicia la sessió amb les teves credencials del compte Sweatcoin.
+3. Busca l'opció "Jar" al menú.
+4. Escull la durada per a l'acumulació (per exemple, 1 any).
+5. Confirma la teva selecció i traspassa els teus Sweatcoins al pot.
+6. Al final del període d'acumulació, guanyaràs un 12% d'interès addicional sobre els teus Sweatcoins acumulats.
+
+> Nota: Les taxes d'interès i les opcions d'acumulació poden variar, així que consulta l'aplicació per a la informació més recent.
+
+## Què?
+
+Seguint aquests passos, pots guanyar Sweatcoins simplement caminant i participant en activitats diàries. Acumular els teus Sweatcoins a l'aplicació Sweatwallet et permet guanyar interessos, maximitzant encara més els teus ingressos passius. Aquest mètode promou un estil de vida més saludable mentre ofereix recompenses financeres.
+
+Recorda revisar l'aplicació regularment per a noves ofertes i recompenses, ja que poden canviar o actualitzar-se periòdicament. Gaudeix del teu camí cap a un estil de vida més saludable i recompenses financeres amb Sweatcoin!
+
+---
+
+Feliç caminar i guanyar!
