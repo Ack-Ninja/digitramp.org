@@ -32,7 +32,7 @@ def translate_text(api_key, text):
             {"role": "system", "content": f"You will set the current date"},
             {"role": "user", "content": text}
         ],
-        max_tokens=1000,
+        max_tokens=4096,
         n=1,
         stop=None,
         temperature=0.5
