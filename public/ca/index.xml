@@ -12,91 +12,105 @@
     <generator>Hugo -- 0.126.1</generator>
     <language>ca</language>
     <copyright>Digitramp Contributors</copyright>
-    <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recompenses per Caminar: Guanya Mentre Camines</title>
+      <link>http://localhost:1313/ca/posts/walking-money/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/walking-money/</guid>
+      <description>Descobreix com convertir els teus passos diaris en recompenses amb aplicacions de recompenses per caminar.</description>
+    </item>
     <item>
       <title>Estalvia diners i redueix el malbaratament d&#39;aliments amb &#39;Too Good To Go&#39;</title>
       <link>http://localhost:1313/ca/posts/too-good-to-go/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ca/posts/too-good-to-go/</guid>
-      <description>Explora com l&amp;#39;app &amp;#39;Too Good To Go&amp;#39; ajuda a combatre el malbaratament d&amp;#39;aliments, estalviar diners i tenir un impacte ambiental positiu.</description>
+      <description>Descobreix com l&amp;#39;aplicació &amp;#39;Too Good To Go&amp;#39; et permet estalviar diners en menjars mentre combat el malbaratament d&amp;#39;aliments. Aprèn els beneficis, com utilitzar l&amp;#39;app i l&amp;#39;impacte positiu en el medi ambient.</description>
     </item>
     <item>
-      <title>Maximitza els teus estalvis amb La Cuponera</title>
+      <title>La teva guia per a fer compres intel·ligents amb La Cuponera</title>
       <link>http://localhost:1313/ca/posts/la-cuponera/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ca/posts/la-cuponera/</guid>
-      <description>Descobreix com La Cuponera pot transformar la teva experiència de compra proporcionant un accés fàcil a una àmplia gamma de descomptes i ofertes.</description>
+      <description>Descobreix com La Cuponera et pot ajudar a estalviar diners i comprar de manera més intel·ligent amb descomptes i ofertes exclusives.</description>
     </item>
     <item>
-      <title>Recompenses per Caminar: Converteix els teus passos en ingressos</title>
-      <link>http://localhost:1313/ca/posts/walking-money/</link>
-      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/posts/walking-money/</guid>
-      <description>Descobreix com caminar pot guanyar-te recompenses i fins i tot diners a través de diverses aplicacions. Aprèn els beneficis, mètodes i resultats de l&amp;#39;ús d&amp;#39;aplicacions de recompenses per caminar.</description>
-    </item>
-    <item>
-      <title>Entrenament de Corbs per Portar Objectes: Una Guia Completa</title>
-      <link>http://localhost:1313/ca/posts/get-crow-workers/</link>
-      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/posts/get-crow-workers/</guid>
-      <description>Aquesta guia proporciona passos detallats i consells per entrenar corbs per portar objectes als humans, posant èmfasi en la paciència, la consistència i el reforç positiu.</description>
-    </item>
-    <item>
-      <title>Trashback Rewards: Convertir la brossa en tresor</title>
-      <link>http://localhost:1313/ca/posts/trashback-rewards/</link>
-      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/posts/trashback-rewards/</guid>
-      <description>Descobreix com guanyar recompenses ajudant a netejar el medi ambient amb l&amp;#39;aplicació TrashBack.</description>
-    </item>
-    <item>
-      <title>Venda les teves dades a Google: Com guanyar diners amb Google Opinion Rewards</title>
+      <title>Com guanyar diners amb Google Opinion Rewards</title>
       <link>http://localhost:1313/ca/posts/how-to-make-money-google-rewards/</link>
-      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ca/posts/how-to-make-money-google-rewards/</guid>
-      <description>Aprèn com guanyar crèdit de Google Play participant en enquestes a través de l&amp;#39;aplicació Google Opinion Rewards. Aquesta guia et guiarà en els passos per començar i maximitzar el teu potencial de guany.</description>
+      <description>Una guia sobre com guanyar crèdit de Google Play contestant enquestes a través de l&amp;#39;aplicació Google Opinion Rewards.</description>
     </item>
     <item>
-      <title>Cobra Per Aprendre Sobre Cripto</title>
-      <link>http://localhost:1313/ca/posts/learn-and-earn-crypto/</link>
-      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/posts/learn-and-earn-crypto/</guid>
-      <description>Explora com guanyar criptomonedes participant en programes d&amp;#39;aprenentatge i guany. Entén els beneficis, els passos i consells per maximitzar els teus guanys.</description>
+      <title>Aconsegueix treballadors corb: Com entrenar els corbs per portar objectes</title>
+      <link>http://localhost:1313/ca/posts/get-crow-workers/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/get-crow-workers/</guid>
+      <description>Una guia sobre com entrenar els corbs per portar objectes, incloent els materials necessaris, instruccions pas a pas i consells per a un entrenament reeixit.</description>
     </item>
     <item>
-      <title>Genera ingressos passius amb els teus criptos</title>
-      <link>http://localhost:1313/ca/posts/stacking-crypto/</link>
-      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/posts/stacking-crypto/</guid>
-      <description>Aprèn com generar ingressos passius fent staking de la teva criptomoneda. Aquesta guia cobreix els aspectes essencials des de triar la criptomoneda adequada fins a monitorar les teves recompenses de staking.</description>
+      <title>Cobra per recollir escombraries</title>
+      <link>http://localhost:1313/ca/posts/how-to-make-money-trashback/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/how-to-make-money-trashback/</guid>
+      <description>Descobreix com pots guanyar diners i ajudar al medi ambient recollint escombraries amb l&amp;#39;aplicació TrashBack.</description>
     </item>
     <item>
-      <title>Guanyar Dinero Mitjançant Desafiaments de Codificació a CodeArena</title>
-      <link>http://localhost:1313/ca/posts/codearena/</link>
-      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/posts/codearena/</guid>
-      <description>Una guia concisa sobre com guanyar diners participant en desafiaments de codificació a CodeArena.</description>
-    </item>
-    <item>
-      <title>Com guanyar diners amb Sweatcoin</title>
+      <title>Recompenses per caminar de Sweatcoin</title>
       <link>http://localhost:1313/ca/posts/sweatcoin-walking-rewards/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ca/posts/sweatcoin-walking-rewards/</guid>
-      <description>Una guia sobre com guanyar i maximitzar els guanys amb l&amp;#39;aplicació Sweatcoin caminant i sent actiu.</description>
+      <description>Aprèn com guanyar diners amb Sweatcoin caminant i acumulant els teus guanys per a interessos.</description>
     </item>
     <item>
-      <title>Cobra per fer de cangur: Una guia completa</title>
+      <title>Trashback Rewards: Convertir la brossa en recompenses lucratives</title>
+      <link>http://localhost:1313/ca/posts/trashback-rewards/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/trashback-rewards/</guid>
+      <description>Aprèn com guanyar recompenses netejant el medi ambient amb l&amp;#39;aplicació TrashBack. Aquesta guia explica com començar, recollir brossa, guanyar punts i canviar-los per recompenses.</description>
+    </item>
+    <item>
+      <title>Genera Ingressos Passius amb les teves Criptomonedes</title>
+      <link>http://localhost:1313/ca/posts/stacking-crypto/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/stacking-crypto/</guid>
+      <description>Aprèn com guanyar ingressos passius apostant pels teus actius de criptomonedes i participant en la validació de xarxes blockchain.</description>
+    </item>
+    <item>
+      <title>Guia per a guanyar diners amb el servei de custòdia de cases</title>
       <link>http://localhost:1313/ca/posts/get-paid-for-housekeeping/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ca/posts/get-paid-for-housekeeping/</guid>
-      <description>Una guia detallada sobre com guanyar diners fent de cangur, cobrint des de com trobar oportunitats fins a destacar en el paper.</description>
+      <description>Una guia completa sobre com guanyar diners a través de la custòdia de cases, incloent consells per trobar oportunitats, crear un perfil sòlid i destacar en les assignacions.</description>
     </item>
     <item>
-      <title>Internet des Patinets Elèctrics Compartits</title>
-      <link>http://localhost:1313/ca/posts/internet-from-shared-scooter/</link>
+      <title>Cobra per resoldre problemes de Git</title>
+      <link>http://localhost:1313/ca/posts/how-to-make-money-solving-git-issues/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/how-to-make-money-solving-git-issues/</guid>
+      <description>Una guia concisa sobre com guanyar diners resolent problemes de Git i contribuint a projectes de codi obert.</description>
+    </item>
+    <item>
+      <title>Cobra per aprendre sobre criptomonedes</title>
+      <link>http://localhost:1313/ca/posts/learn-and-earn-crypto/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/learn-and-earn-crypto/</guid>
+      <description>Descobreix com guanyar criptomonedes participant en programes d&amp;#39;aprenentatge i guany. Aquesta guia explica per què existeixen aquests programes, com començar i consells per maximitzar els teus guanys.</description>
+    </item>
+    <item>
+      <title>Elements essencials i útils per a la supervivència en un món post-apocalíptic</title>
+      <link>http://localhost:1313/ca/posts/survival-pack/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/survival-pack/</guid>
+      <description>Una guia completa dels elements essencials i útils per a la supervivència en un món post-apocalíptic, incloent les millors opcions revisades per la comunitat i on comprar-los per a una entrega ràpida.</description>
+    </item>
+    <item>
+      <title>Internet des del patinet elèctric compartit</title>
+      <link>http://localhost:1313/ca/posts/internet-from-shared-scooter/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ca/posts/internet-from-shared-scooter/</guid>
-      <description>Aprofita la potència de les targetes SIM dels patinets elèctrics per accedir a internet.</description>
+      <description>Una guia sobre com accedir a internet utilitzant la targeta SIM de l&amp;#39; rastrejador IoT d&amp;#39;un patinet elèctric.</description>
     </item>
     <item>
       <title></title>
@@ -107,50 +121,18 @@
     </item>
     <item>
       <title></title>
+      <link>http://localhost:1313/ca/posts/codearena/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/posts/codearena/</guid>
+      <description>Per què? En el panorama d&amp;rsquo;oportunitats d&amp;rsquo;ingressos alternatives, el món digital ofereix una gran quantitat d&amp;rsquo;opcions per aquells amb habilitats en programació. CodeArena destaca com una plataforma que no només permet als desenvolupadors millorar les seves habilitats sinó també guanyar diners a través de reptes de programació. Aprofita l&amp;rsquo;esperit competitiu de la programació organitzant concursos on les millors solucions són recompensades. Aquesta plataforma és especialment atractiva per als programadors que volen monetitzar les seves habilitats, participar en una competició saludable i obtenir reconeixement a la comunitat de desenvolupadors.</description>
+    </item>
+    <item>
+      <title></title>
       <link>http://localhost:1313/ca/posts/google-opinion-rewards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ca/posts/google-opinion-rewards/</guid>
-      <description>Per què? Google Opinion Rewards ofereix una manera senzilla de guanyar crèdit de Google Play simplement contestant enquestes curtes. Aquesta oportunitat és ideal per a aquells que busquen treure el màxim profit del seu temps lliure, proporcionant una petita però consistent font de recompenses que es poden utilitzar per a aplicacions, jocs, pel·lícules, llibres i altres continguts digitals a la Google Play Store.
-Com? Pas 1: Descarrega i Instal·la l&amp;rsquo;Aplicació Obre la Google Play Store al teu dispositiu Android.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/ca/posts/how-to-make-money-solving-git-issues/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/posts/how-to-make-money-solving-git-issues/</guid>
-      <description>Cobra per resoldre problemes de Git Per què? La comunitat de codi obert prospera gràcies a la col·laboració i les contribucions dels desenvolupadors arreu del món. No obstant això, molts desenvolupadors no saben que també poden guanyar diners mentre contribueixen a aquests projectes. Plataformes com Gitpay ofereixen oportunitats per resoldre problemes, oferir serveis freelance, aconseguir donacions i patrocinadors, permetent-te monetitzar les teves habilitats i esforços.
-Com? 1. Guanya diners resolent problemes de codi obert a Gitpay Navega pels projectes: Explora projectes de codi obert i identifica els problemes que pots resoldre.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/ca/posts/how-to-make-money-trashback/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/posts/how-to-make-money-trashback/</guid>
-      <description>Cobra per recollir escombraries Temps d&amp;rsquo;Atenció Estimat: Com vulguis
-Ingressos Estimats: Variables
-TrashBack és una aplicació que et permet guanyar regals ajudant al planeta. Amb TrashBack, pots contribuir a netejar el medi ambient mentre també ets recompensat pels teus esforços. En aquest tutorial, t&amp;rsquo;orientarem en el procés d&amp;rsquo;utilitzar l&amp;rsquo;aplicació TrashBack per guanyar diners amb les escombraries.
-Taula de Continguts Per què? Com? Començar Explorar i Recollir Escombraries Guanyar Punts Canviar Punts per Regals Què?</description>
-    </item>
-    <item>
-      <title>Categories</title>
-      <link>http://localhost:1313/ca/categories/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/categories/</guid>
-      <description>categories</description>
-    </item>
-    <item>
-      <title>Series</title>
-      <link>http://localhost:1313/ca/series/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/series/</guid>
-      <description>series</description>
-    </item>
-    <item>
-      <title>Tags</title>
-      <link>http://localhost:1313/ca/tags/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/tags/</guid>
-      <description>tags</description>
+      <description>Com guanyar diners amb Google Opinion Rewards Google Opinion Rewards és una aplicació mòbil creada per l&amp;rsquo;equip de Google Surveys que et permet guanyar crèdit de Google Play responent enquestes curtes. En aquest tutorial, t&amp;rsquo;acompanyarem en el procés per començar amb Google Opinion Rewards i maximitzar el teu potencial de guany.
+Per què? Google Opinion Rewards ofereix una manera simple i convenient de guanyar ingressos addicionals en forma de crèdits de Google Play.</description>
     </item>
   </channel>
 </rss>

@@ -12,14 +12,35 @@
     <generator>Hugo -- 0.126.1</generator>
     <language>fr</language>
     <copyright>Digitramp Contributors</copyright>
-    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/fr/tags/revenu-alternatif/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Être payé pour faire de la garde de maison : un guide complet</title>
+      <title>Récompenses de marche : Gagnez en marchant</title>
+      <link>http://localhost:1313/fr/posts/walking-money/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/posts/walking-money/</guid>
+      <description>Découvrez comment transformer vos pas quotidiens en récompenses avec des applications de récompenses de marche.</description>
+    </item>
+    <item>
+      <title>Être payé pour ramasser les déchets</title>
+      <link>http://localhost:1313/fr/posts/how-to-make-money-trashback/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/posts/how-to-make-money-trashback/</guid>
+      <description>Découvrez comment vous pouvez gagner de l&amp;#39;argent et aider l&amp;#39;environnement en ramassant les déchets grâce à l&amp;#39;application TrashBack.</description>
+    </item>
+    <item>
+      <title>Recruter des travailleurs corbeaux : Comment entraîner les corbeaux à apporter des objets</title>
+      <link>http://localhost:1313/fr/posts/get-crow-workers/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/posts/get-crow-workers/</guid>
+      <description>Un guide sur la façon d&amp;#39;entraîner les corbeaux à apporter des objets, comprenant les matériaux nécessaires, des instructions étape par étape et des conseils pour un entraînement réussi.</description>
+    </item>
+    <item>
+      <title>Être Payé pour le Ménage : Guide du Gardiennage de Maison</title>
       <link>http://localhost:1313/fr/posts/get-paid-for-housekeeping/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/posts/get-paid-for-housekeeping/</guid>
-      <description>Un guide détaillé sur comment gagner de l&amp;#39;argent en faisant de la garde de maison, couvrant tout, de la recherche d&amp;#39;opportunités à l&amp;#39;excellence dans le rôle.</description>
+      <description>Un guide complet sur comment gagner de l&amp;#39;argent grâce au gardiennage de maison, incluant des conseils pour trouver des opportunités, construire un profil solide et exceller dans les missions.</description>
     </item>
   </channel>
 </rss>

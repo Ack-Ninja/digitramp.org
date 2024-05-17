@@ -12,14 +12,21 @@
     <generator>Hugo -- 0.126.1</generator>
     <language>fr</language>
     <copyright>Digitramp Contributors</copyright>
-    <lastBuildDate>Sat, 07 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/fr/tags/revenu/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gagner de l&#39;argent grâce aux défis de codage sur CodeArena</title>
-      <link>http://localhost:1313/fr/posts/codearena/</link>
-      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/posts/codearena/</guid>
-      <description>Un guide concis sur la façon de gagner de l&amp;#39;argent en participant à des défis de codage sur CodeArena.</description>
+      <title>Être payé pour résoudre les problèmes Git</title>
+      <link>http://localhost:1313/fr/posts/how-to-make-money-solving-git-issues/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/posts/how-to-make-money-solving-git-issues/</guid>
+      <description>Un guide concis sur comment gagner de l&amp;#39;argent en résolvant des problèmes Git et en contribuant à des projets open source.</description>
+    </item>
+    <item>
+      <title>Gagnez de l&#39;argent en apprenant sur les cryptomonnaies</title>
+      <link>http://localhost:1313/fr/posts/learn-and-earn-crypto/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/posts/learn-and-earn-crypto/</guid>
+      <description>Découvrez comment gagner des cryptomonnaies en participant à des programmes d&amp;#39;apprentissage et de récompenses. Ce guide explique pourquoi ces programmes existent, comment commencer et des astuces pour maximiser vos gains.</description>
     </item>
   </channel>
 </rss>

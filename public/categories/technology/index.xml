@@ -12,28 +12,21 @@
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
     <copyright>Digitramp Contributors</copyright>
-    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/technology/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Generating Income with Basic Attention Token (BAT) Using the Brave Browser</title>
-      <link>http://localhost:1313/posts/bat-brave-rewards/</link>
-      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/bat-brave-rewards/</guid>
-      <description>A comprehensive guide on how to earn Basic Attention Token (BAT) using the Brave browser, including steps to get started and additional earning opportunities.</description>
-    </item>
     <item>
       <title>Get Paid to Solve Git Issues</title>
       <link>http://localhost:1313/posts/how-to-make-money-solving-git-issues/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/how-to-make-money-solving-git-issues/</guid>
-      <description>A guide to earning money by solving open-source issues and contributing to projects on Gitpay and similar platforms.</description>
+      <description>A concise guide on earning money by solving Git issues and contributing to open-source projects.</description>
     </item>
     <item>
       <title>Internet From Shared Scooter</title>
       <link>http://localhost:1313/posts/internet-from-shared-scooter/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/internet-from-shared-scooter/</guid>
-      <description>Harness the power of electric scooter SIM cards for internet access.</description>
+      <description>A guide on how to access internet using the SIM card from an electric scooter&amp;#39;s IoT tracker.</description>
     </item>
   </channel>
 </rss>

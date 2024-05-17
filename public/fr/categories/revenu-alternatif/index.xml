@@ -12,21 +12,28 @@
     <generator>Hugo -- 0.126.1</generator>
     <language>fr</language>
     <copyright>Digitramp Contributors</copyright>
-    <lastBuildDate>Mon, 09 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/fr/categories/revenu-alternatif/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Trashback Rewards: Transformer les déchets en trésor</title>
+      <title>Récompenses Trashback : Transformer les déchets en récompenses lucratives</title>
       <link>http://localhost:1313/fr/posts/trashback-rewards/</link>
-      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/posts/trashback-rewards/</guid>
-      <description>Découvrez comment gagner des récompenses en aidant à nettoyer l&amp;#39;environnement avec l&amp;#39;application TrashBack.</description>
+      <description>Découvrez comment gagner des récompenses en nettoyant l&amp;#39;environnement avec l&amp;#39;application TrashBack. Ce guide explique comment commencer, collecter des déchets, gagner des points et échanger des récompenses.</description>
     </item>
     <item>
-      <title>Gagnez de l&#39;argent en ramassant des déchets</title>
-      <link>http://localhost:1313/fr/posts/how-to-make-money-trashback/</link>
-      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/posts/how-to-make-money-trashback/</guid>
-      <description>Découvrez comment gagner des récompenses en ramassant des déchets et en aidant l&amp;#39;environnement avec l&amp;#39;application TrashBack.</description>
+      <title>Recruter des travailleurs corbeaux : Comment entraîner les corbeaux à apporter des objets</title>
+      <link>http://localhost:1313/fr/posts/get-crow-workers/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/posts/get-crow-workers/</guid>
+      <description>Un guide sur la façon d&amp;#39;entraîner les corbeaux à apporter des objets, comprenant les matériaux nécessaires, des instructions étape par étape et des conseils pour un entraînement réussi.</description>
+    </item>
+    <item>
+      <title>Comment gagner de l&#39;argent avec Google Opinion Rewards</title>
+      <link>http://localhost:1313/fr/posts/google-opinion-rewards/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/posts/google-opinion-rewards/</guid>
+      <description>Un guide concis pour gagner des crédits Google Play grâce à Google Opinion Rewards en répondant à de courts sondages.</description>
     </item>
   </channel>
 </rss>

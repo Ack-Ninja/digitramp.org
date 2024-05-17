@@ -12,14 +12,14 @@
     <generator>Hugo -- 0.126.1</generator>
     <language>fr</language>
     <copyright>Digitramp Contributors</copyright>
-    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/fr/tags/trottinette-%C3%A9lectrique/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Internet à partir d&#39;une Trottinette Partagée</title>
       <link>http://localhost:1313/fr/posts/internet-from-shared-scooter/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/posts/internet-from-shared-scooter/</guid>
-      <description>Exploitez la puissance des cartes SIM des trottinettes électriques pour accéder à Internet.</description>
+      <description>Un guide sur comment accéder à internet en utilisant la carte SIM du traqueur IoT d&amp;#39;une trottinette électrique.</description>
     </item>
   </channel>
 </rss>

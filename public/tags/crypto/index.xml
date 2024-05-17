@@ -12,14 +12,21 @@
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
     <copyright>Digitramp Contributors</copyright>
-    <lastBuildDate>Sat, 07 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generate Passive Income with Your Cryptos</title>
+      <link>http://localhost:1313/posts/stacking-crypto/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/stacking-crypto/</guid>
+      <description>Learn how to earn passive income by staking your cryptocurrency assets and participating in blockchain network validation.</description>
+    </item>
     <item>
       <title>Get Paid to Learn About Crypto</title>
       <link>http://localhost:1313/posts/learn-and-earn-crypto/</link>
-      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/learn-and-earn-crypto/</guid>
-      <description>Explore how to earn cryptocurrency by participating in Learn and Earn programs. Understand the benefits, steps, and tips for maximizing your earnings.</description>
+      <description>Discover how to earn cryptocurrency by participating in Learn and Earn programs. This guide explains why these programs exist, how to get started, and tips for maximizing your earnings.</description>
     </item>
   </channel>
 </rss>

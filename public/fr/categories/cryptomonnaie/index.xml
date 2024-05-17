@@ -12,21 +12,21 @@
     <generator>Hugo -- 0.126.1</generator>
     <language>fr</language>
     <copyright>Digitramp Contributors</copyright>
-    <lastBuildDate>Sat, 07 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/fr/categories/cryptomonnaie/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Être payé pour apprendre sur la crypto</title>
-      <link>http://localhost:1313/fr/posts/learn-and-earn-crypto/</link>
-      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/posts/learn-and-earn-crypto/</guid>
-      <description>Découvrez comment gagner des cryptomonnaies en participant à des programmes d&amp;#39;apprentissage et de récompenses. Comprenez les avantages, les étapes et les astuces pour maximiser vos gains.</description>
-    </item>
     <item>
       <title>Générer un revenu passif avec vos cryptomonnaies</title>
       <link>http://localhost:1313/fr/posts/stacking-crypto/</link>
-      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/posts/stacking-crypto/</guid>
-      <description>Apprenez à générer un revenu passif en misant vos cryptomonnaies. Ce guide couvre les bases, de la sélection de la bonne cryptomonnaie à la surveillance de vos récompenses de mise.</description>
+      <description>Apprenez à gagner un revenu passif en misant vos actifs de cryptomonnaie et en participant à la validation des réseaux blockchain.</description>
+    </item>
+    <item>
+      <title>Gagnez de l&#39;argent en apprenant sur les cryptomonnaies</title>
+      <link>http://localhost:1313/fr/posts/learn-and-earn-crypto/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/posts/learn-and-earn-crypto/</guid>
+      <description>Découvrez comment gagner des cryptomonnaies en participant à des programmes d&amp;#39;apprentissage et de récompenses. Ce guide explique pourquoi ces programmes existent, comment commencer et des astuces pour maximiser vos gains.</description>
     </item>
   </channel>
 </rss>

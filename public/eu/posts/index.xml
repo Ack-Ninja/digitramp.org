@@ -12,120 +12,127 @@
     <generator>Hugo -- 0.126.1</generator>
     <language>eu</language>
     <copyright>Digitramp Contributors</copyright>
-    <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/eu/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>&#39;Too Good To Go&#39; aplikazioarekin diru aurreztu eta hondakinak gutxitu</title>
+      <title>CodeArena: Kodeatarien Kode bidez irabazi</title>
+      <link>http://localhost:1313/eu/posts/codearena/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/posts/codearena/</guid>
+      <description>Aztertu nola eskaintzen duen CodeArena plataforma berezia kodean diru irabazteko, gaitasunak hobetzeko, eta garatzaile komunitatearekin konektatzeko kode erronkak bidez.</description>
+    </item>
+    <item>
+      <title>Diru Gehiago Aurrezteko eta Elikagai Hutsen Desperdizioa Gutxitu &#39;Too Good To Go&#39; Aplikazioarekin</title>
       <link>http://localhost:1313/eu/posts/too-good-to-go/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/eu/posts/too-good-to-go/</guid>
-      <description>&amp;#39;Too Good To Go&amp;#39; aplikazioak zerbitzu hondakinak borrokatzeko, dirua aurreztu eta eragina positiboa izateko laguntzen duen modua aztertzen du.</description>
+      <description>&amp;#39;Too Good To Go&amp;#39; aplikazioak nola laguntzen duen diru aurreztean janariak, batera elikagai desberdinak erosiz eta desperdizioa gutxituz. Ikusi onurak, aplikazioa nola erabili eta ingurumenaren gaineko eragina.</description>
     </item>
     <item>
-      <title>Oinezkoak Errenta Bihurtu: Zure Pausoak Diru Bilakatzeko</title>
+      <title>Ibilbideen Sariak: Ibili Zehaztuz Diru Sartu Bitartean</title>
       <link>http://localhost:1313/eu/posts/walking-money/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/eu/posts/walking-money/</guid>
-      <description>Ikusi nola oinezka diru eta sariak lortu dezakezun aplikazio ezberdinetan. Ikasi oinezka sariak aplikazioen bidez erabiltzeko abantailak, metodoak eta emaitzak.</description>
+      <description>Ikasi nola bihurtu zure eguneroko pasuak sariak bihurtzeko ibilbide aplikazioekin.</description>
     </item>
     <item>
-      <title>Zure Aurrekontua Handitzeko La Cuponerarekin</title>
+      <title>Zure Gida La Cuponerarekin Diru Aurrezteko Modu Berezia</title>
       <link>http://localhost:1313/eu/posts/la-cuponera/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/eu/posts/la-cuponera/</guid>
-      <description>Deskubritu nola aldatu dezakeen zure erosketen esperientzia La Cuponerak eskaintzen dituen deskontu eta erosketa anitzetara erraz sartzeko bideaz.</description>
+      <description>La Cuponera-ri esker dirua aurrezteko eta erosketa egokiagoak egiteko laguntza ematen duenak, eskaintzen dituen bezeroen eta erosketen ofertak eta deskontuak ezagutu.</description>
     </item>
     <item>
-      <title>Garratzak Objektuak Ekartzeko Aditza: Gida Osoa</title>
+      <title>Nola diru Google Opinion Rewards bidez</title>
+      <link>http://localhost:1313/eu/posts/how-to-make-money-google-rewards/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/posts/how-to-make-money-google-rewards/</guid>
+      <description>Gida bat Google Opinion Rewards aplikazioaren bidez egindako inkestak erantzun eta Google Play kreditua irabazteko.</description>
+    </item>
+    <item>
+      <title>Get Crow Workers: Nola Objektuak Ekartzeko Sugeak Nola Trebatu</title>
       <link>http://localhost:1313/eu/posts/get-crow-workers/</link>
-      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/eu/posts/get-crow-workers/</guid>
-      <description>Gida hau garratzak objektuak ekartzeko aditzaren zehaztapenak eta aholkuak eskaintzen ditu, pazientzia, egonkortasuna eta eraldaketa positiboa garrantzituz.</description>
+      <description>Gida bat nola entrenatu sugeak objektuak ekartzeko, behar diren materialak, urratsak eta entrenamendu arrakastatsuak lortzeko aholkuak barne.</description>
     </item>
     <item>
-      <title>Trashback Sariak: Zakarrontzia Bilatzen Zaborra Bilatzen</title>
+      <title>Sweatcoin Walking Rewards</title>
+      <link>http://localhost:1313/eu/posts/sweatcoin-walking-rewards/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/posts/sweatcoin-walking-rewards/</guid>
+      <description>Ikasi diraitezen diru bat irabazteko Sweatcoin aplikazioarekin ibiltzen eta zure irabaziak intereserako jasotzeko apilatzen.</description>
+    </item>
+    <item>
+      <title>Trashback Rewards: Zaborra Bilera Irabazteko Aukera</title>
       <link>http://localhost:1313/eu/posts/trashback-rewards/</link>
-      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/eu/posts/trashback-rewards/</guid>
-      <description>Ikasi nola dirua irabazteko ingurua garbitzen lagunduz TrashBack aplikazioarekin.</description>
+      <description>Ikasi nola erronka garbia ekinez TrashBack aplikazioarekin sariak irabazteko. Gida hau azaltzen du nola hasteko, zabor bildu, puntuak irabazteko eta sariak atxikitzeko.</description>
     </item>
     <item>
-      <title>KodeArena-n Kode Iraunkorra Iragartzeko Bideak Irakatsi</title>
-      <link>http://localhost:1313/eu/posts/codearena/</link>
-      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/eu/posts/codearena/</guid>
-      <description>KodeArena-n kode iraunkorra iragartzeko bideak irakatsi nahi dituzun modu laburra.</description>
+      <title>Zaborra Bildu eta Ordaindu</title>
+      <link>http://localhost:1313/eu/posts/how-to-make-money-trashback/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/posts/how-to-make-money-trashback/</guid>
+      <description>Denbora pasa eta dirua irabazi dezakezu, Zaborra bilduz eta TrashBack aplikazioa erabiliz ingurumena lagunduz.</description>
     </item>
     <item>
-      <title>Kriptoaizkorrerako ordainduak izanu eta ikasi</title>
-      <link>http://localhost:1313/eu/posts/learn-and-earn-crypto/</link>
-      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/eu/posts/learn-and-earn-crypto/</guid>
-      <description>Esploratu nola irabazi kriptomoneta parte hartze programetan parte hartuz. Ulertu onurak, pausoak eta irabazien maximizazioa nola egin.</description>
-    </item>
-    <item>
-      <title>Zure Kriptomoneten Bidezko Irabazia Sortu</title>
-      <link>http://localhost:1313/eu/posts/stacking-crypto/</link>
-      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/eu/posts/stacking-crypto/</guid>
-      <description>Ikasi nola irabazteko pasiboki kriptomoneta stakeatzen. Gida honek aukera egiten du zure stakeatzen diren sariak kontrolatzeko eta aukeratzeko.</description>
-    </item>
-    <item>
-      <title>Basic Attention Token (BAT) erabiliz irabazteko aukera sortzea Brave nabigatzailea erabiliz</title>
+      <title>Errentabetetik Errenta Sortu BAT (Basic Attention Token) erabiliz</title>
       <link>http://localhost:1313/eu/posts/bat-brave-rewards/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/eu/posts/bat-brave-rewards/</guid>
-      <description>BAT erabiliz Basic Attention Token (BAT) irabazteko aukera berezia eskaintzen duen Brave nabigatzailea erabiltzeko gida zabala, hasi eta irabazteko pausuak eta irabazteko aukera gehigarriak aztertzeko.</description>
+      <description>Ikasi nola Basic Attention Token (BAT) irabaztea Brave nabigatzailea erabiliz, iragarkiak ikusteko eta BAT Sortzaile programan parte hartzeko.</description>
     </item>
     <item>
-      <title>Zaborra bildu eta ordaindu</title>
-      <link>http://localhost:1313/eu/posts/how-to-make-money-trashback/</link>
-      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/eu/posts/how-to-make-money-trashback/</guid>
-      <description>Ikasi nola dirua irabaz dezakezun eta ingurumena lagunduz zaborra bilduz TrashBack aplikazioarekin.</description>
-    </item>
-    <item>
-      <title>Get Paid to Solve Git Issues</title>
-      <link>http://localhost:1313/eu/posts/how-to-make-money-solving-git-issues/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/eu/posts/how-to-make-money-solving-git-issues/</guid>
-      <description>Gitpay eta plataforma antzekoekin lankidetzan laguntza eskatuz eta proiektuetara ekarpenak eginez diru irabazteko gida bat.</description>
-    </item>
-    <item>
-      <title>Nola Diru Lortu Sweatcoinen Bidez</title>
-      <link>http://localhost:1313/eu/posts/sweatcoin-walking-rewards/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/eu/posts/sweatcoin-walking-rewards/</guid>
-      <description>Sweatcoin aplikazioarekin ibiltzen eta aktibo egon arren nola diru lortu azaltzen duen gida bat.</description>
-    </item>
-    <item>
-      <title>Etxeko Zainetan Ordaintzeko: Gida Zehatza</title>
+      <title>Etxeko Lanarekin Ordaintzeko: Etxe Kontserbatze Gida</title>
       <link>http://localhost:1313/eu/posts/get-paid-for-housekeeping/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/eu/posts/get-paid-for-housekeeping/</guid>
-      <description>Etxeko zainekin dirua ordaintzeko gida zehatza, aukera aurkitzeaz eta papera egiten ikasteko, rola ondo beteko duen guztia azaltzen duena.</description>
+      <description>Diru-sarrerak lortzeko etxe kontserbatze bidean zehar ordaintzeko gida zehatza, aukera aurkitzeaz, profila sendotzeaz eta ardura onetan aurrera egiteaz.</description>
     </item>
     <item>
-      <title>Internet Zure eskuter partekatutik</title>
+      <title>Zure Diru Sarrera Sortu Zure Cryptokin</title>
+      <link>http://localhost:1313/eu/posts/stacking-crypto/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/posts/stacking-crypto/</guid>
+      <description>Ikasi zure kriptomoneten aktiboak stakeatzen eta bloke kateen bidezko egiaztapenean parte hartuz diru sarrera pasiboa lortzeko moduak.</description>
+    </item>
+    <item>
+      <title>Git Arazoak Konpontzen Diru Sarrerak Lortzeko</title>
+      <link>http://localhost:1313/eu/posts/how-to-make-money-solving-git-issues/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/posts/how-to-make-money-solving-git-issues/</guid>
+      <description>Jasotzen diru sarrerak Git arazoak konpontzen eta kode ireki proiektuei ekarpenak egiten bidez.</description>
+    </item>
+    <item>
+      <title>Kriptoaurreari buruz ikasi eta ordaintzeko</title>
+      <link>http://localhost:1313/eu/posts/learn-and-earn-crypto/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/posts/learn-and-earn-crypto/</guid>
+      <description>Ikasi eta Erabili programetan parte hartuz kriptoaurrea irabazteko modua nola da aztertu. Gida honek azaltzen du programa horiek zergatik daudela, nola hasteko eta zure irabazien maximizatzeko aholkuak.</description>
+    </item>
+    <item>
+      <title>Post-apokalipsiaren ondoren bizirik irauteko oinarrizko eta erabilgarriak diren gauzak</title>
+      <link>http://localhost:1313/eu/posts/survival-pack/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/eu/posts/survival-pack/</guid>
+      <description>Gida zabala post-apokalipsiaren ondoren bizirik irauteko oinarrizko eta erabilgarriak diren gauzen inguruan, komunitateak berrikusitako onenak eta non erosi ditzakezun azkarren entregatzeko.</description>
+    </item>
+    <item>
+      <title>Interneteko Sarbide Eskutik Eskuter partekatutik</title>
       <link>http://localhost:1313/eu/posts/internet-from-shared-scooter/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/eu/posts/internet-from-shared-scooter/</guid>
-      <description>Ahalmen elektrikoak dituzten eskuterren SIM txartelak erabiliz interneteko sarbidea eskuratu.</description>
-    </item>
-    <item>
-      <title>Nola dirua lortu Google Opinion Rewards bidez</title>
-      <link>http://localhost:1313/eu/posts/google-opinion-rewards/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/eu/posts/google-opinion-rewards/</guid>
-      <description>Jario laburren bidezko inkesten bidez Google Opinion Rewards erabiliz Google Play kreditua lortzeko gida laburra.</description>
+      <description>Gida bat interneteko sarbidea nola eskuratzeko, eskuter elektriko baten IoT jarraipenaren SIM txartelaren bidez.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/eu/posts/how-to-make-money-google-rewards/</link>
+      <link>http://localhost:1313/eu/posts/google-opinion-rewards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/eu/posts/how-to-make-money-google-rewards/</guid>
-      <description>Zure datuak Google-i saltzea: Nola dirua atera Google Opinion Rewards bidez Zergatik? Google Opinion Rewards-ek modu sinple bat eskaintzen du Google Play kreditua irabazteko, labur-sailkatutako galderetan parte hartuz. Hau diru gehiago atera dezakezu modu erraz eta pasibo batean, batez ere Google Play zerbitzuak ohituta badituzu. Zure iritzia partekatuz, kreditua bildu dezakezu, aplikazioak, jokoak, filmetan, liburuetan eta abarretan gastatzeko.
-Nola? 1. Pasa eta Instalatu Aplikazioa Ireki Google Play Store zure Android gailuan.</description>
+      <guid>http://localhost:1313/eu/posts/google-opinion-rewards/</guid>
+      <description>Nola Dirua Atera Google Opinion Rewards bidez Google Opinion Rewards Google Surveys taldeak sortutako mugikor aplikazioa da, Google Play kredituak irabazteko aukera ematen duen azkenengo inkestak erantzunaz. Tutorialean, Google Opinion Rewards-ekin hasi eta zure irabazien potentziala maximizatzeko prozesua gida egingo dizugu.
+Zergatik? Google Opinion Rewards-ek diru gehiago irabazteko modu sinple eta eraginkorra eskaintzen du Google Play kreditu gisa. Hau bereziki erabilgarria izan daiteke Google Play Dendatik aplikazioak, jokoak, filmak, liburuak edo beste eduki digitalak erosten dituztenentzat.</description>
     </item>
   </channel>
 </rss>
