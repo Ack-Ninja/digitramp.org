@@ -57,7 +57,6 @@ Aprendre a programar és una habilitat valuosa a l'era digital actual, que obre 
 
 | Plataforma           | Descripció                                                                 | Enllaç                                          | Tipus                                  |
 |--------------------|-----------------------------------------------------------------------------|-----------------------------------------------|---------------------------------------|
-| **Algora**         | Simplifica la creació i guany de recompenses per projectes de codi obert.          | [Algora](https://console.algora.io/)          | Issues de GitHub                         |
 | **Bounting**       | Ofereix una varietat de recompenses en múltiples llenguatges de programació i nivells de dificultat. | [Bounting](https://bount.ing/)             | Issues de GitHub                         |
 | **Gitpay.me**      | Plataforma fàcil d'utilitzar amb una àmplia gamma de projectes de codi obert que ofereixen recompenses. | [Gitpay.me](https://gitpay.me/)               | Issues de GitHub                         |
 | **Gitcoin**        | Es centra en projectes relacionats amb blockchain i criptomonedes.                 | [Gitcoin](https://gitcoin.co/)                | Ambdós                                  |
@@ -65,6 +64,7 @@ Aprendre a programar és una habilitat valuosa a l'era digital actual, que obre 
 | **CodeTriage**     | T'ajuda a trobar problemes en projectes de codi obert que necessiten atenció, alguns dels quals ofereixen recompenses. | [CodeTriage](https://www.codetriage.com/)     | Issues de GitHub                         |
 | **OSS.Fund**       | Agrega diverses plataformes que ofereixen recompenses de codi obert.                 | [OSS.Fund](https://www.oss.fund/categories/bounties/) | Ambdós                                  |
 | **IssueHunt**      | Permet als usuaris oferir i guanyar recompenses per solucionar errors o afegir funcionalitats. | [IssueHunt](https://issuehunt.io/)            | Issues de GitHub                         |
+| **Algora**         | Simplifica la creació i guany de recompenses per projectes de codi obert.          | [Algora](https://console.algora.io/)          | Issues de GitHub                         |
 | **BOSS**           | Plataforma integrada amb GitHub per gestionar recompenses.                      | [BOSS](https://www.boss.dev/)                 | Issues de GitHub                         |
 | **Open Collective**| Proporciona un programa de recompenses per donar suport a les contribucions de codi obert.             | [Open Collective](https://docs.opencollective.com/help/contributing/bounties/) | Issues de GitHub                         |
 | **Gerobug**        | Plataforma de recompenses per bugs de codi obert autogestionada per a organitzacions.            | [Gerobug](https://github.com/gerosecurity/gerobug) | Recompenses per bugs de seguretat                 |

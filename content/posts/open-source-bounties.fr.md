@@ -57,7 +57,6 @@ Apprendre à coder est une compétence précieuse à l'ère numérique actuelle,
 
 | Plateforme           | Description                                                                 | Lien                                          | Type                                  |
 |--------------------|-----------------------------------------------------------------------------|-----------------------------------------------|---------------------------------------|
-| **Algora**         | Simplifie la création et l'obtention de bounties pour les projets open-source.          | [Algora](https://console.algora.io/)          | Problèmes GitHub                         |
 | **Bounting**       | Propose une variété de bounties dans plusieurs langages de programmation et niveaux de difficulté. | [Bounting](https://bount.ing/)             | Problèmes GitHub                         |
 | **Gitpay.me**      | Plateforme conviviale avec une large gamme de projets open-source offrant des bounties. | [Gitpay.me](https://gitpay.me/)               | Problèmes GitHub                         |
 | **Gitcoin**        | Axe ses activités sur les projets liés à la blockchain et aux cryptomonnaies.                 | [Gitcoin](https://gitcoin.co/)                | Les Deux                                  |
@@ -65,6 +64,7 @@ Apprendre à coder est une compétence précieuse à l'ère numérique actuelle,
 | **CodeTriage**     | Vous aide à trouver des problèmes dans des projets open-source qui nécessitent de l'attention, certains offrant des bounties. | [CodeTriage](https://www.codetriage.com/)     | Problèmes GitHub                         |
 | **OSS.Fund**       | Regroupe plusieurs plateformes proposant des bounties open-source.                 | [OSS.Fund](https://www.oss.fund/categories/bounties/) | Les Deux                                  |
 | **IssueHunt**      | Permet aux utilisateurs de proposer et de gagner des bounties pour la résolution de bugs ou l'ajout de fonctionnalités. | [IssueHunt](https://issuehunt.io/)            | Problèmes GitHub                         |
+| **Algora**         | Simplifie la création et l'obtention de bounties pour les projets open-source.          | [Algora](https://console.algora.io/)          | Problèmes GitHub                         |
 | **BOSS**           | Plateforme intégrée à GitHub pour la gestion des bounties.                      | [BOSS](https://www.boss.dev/)                 | Problèmes GitHub                         |
 | **Open Collective**| Propose un programme de bounties pour soutenir les contributions open-source.             | [Open Collective](https://docs.opencollective.com/help/contributing/bounties/) | Problèmes GitHub                         |
 | **Gerobug**        | Plateforme de bounties pour les bugs open-source autogérée pour les organisations.            | [Gerobug](https://github.com/gerosecurity/gerobug) | Bounties de Bugs de Sécurité                 |

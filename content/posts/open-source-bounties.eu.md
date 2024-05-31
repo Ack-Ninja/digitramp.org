@@ -57,7 +57,6 @@ Kodea ikastea garrantzitsua da gaur egungo aro digitalean, hainbat lan aukera ir
 
 | Plataforma           | Deskribapena                                                                 | Esteka                                          | Mota                                  |
 |--------------------|-----------------------------------------------------------------------------|-----------------------------------------------|---------------------------------------|
-| **Algora**         | Aurrerapen ireki proiektuetarako bountieak sortzen eta irabazten errazten du.          | [Algora](https://console.algora.io/)          | GitHub Arloak                         |
 | **Bounting**       | Bountie anitz eskaintzen ditu hainbat programazio hizkuntza eta zailtasun mailatan. | [Bounting](https://bount.ing/)             | GitHub Arloak                         |
 | **Gitpay.me**      | Erabiltzaile-gogorra den plataforma zabaldua, bountieak eskaintzen ditu proiektu irekietan. | [Gitpay.me](https://gitpay.me/)               | GitHub Arloak                         |
 | **Gitcoin**        | Bloke-kate eta kriptomoneta-proiektuetan zentratzen da.                 | [Gitcoin](https://gitcoin.co/)                | Biak                                  |
@@ -65,6 +64,7 @@ Kodea ikastea garrantzitsua da gaur egungo aro digitalean, hainbat lan aukera ir
 | **CodeTriage**     | Arreta behar duten kode ireki proiektuetan arazoak aurkitzen laguntzen dizu. | [CodeTriage](https://www.codetriage.com/)     | GitHub Arloak                         |
 | **OSS.Fund**       | Bountieak eskaintzen dituzten hainbat plataforma bateratzen ditu.                 | [OSS.Fund](https://www.oss.fund/categories/bounties/) | Biak                                  |
 | **IssueHunt**      | Erabiltzaileek bountieak eskaintzeko eta irabazteko aukera ematen du, akatsak zuzentzeko edo ezaugarriak gehitzeko. | [IssueHunt](https://issuehunt.io/)            | GitHub Arloak                         |
+| **Algora**         | Aurrerapen ireki proiektuetarako bountieak sortzen eta irabazten errazten du.          | [Algora](https://console.algora.io/)          | GitHub Arloak                         |
 | **BOSS**           | GitHub-ekin integrazioa duen plataforma bountieak kudeatzeko.                      | [BOSS](https://www.boss.dev/)                 | GitHub Arloak                         |
 | **Open Collective**| Bountie programa bat eskaintzen du kode ireki ekarpenak laguntzeko.             | [Open Collective](https://docs.opencollective.com/help/contributing/bounties/) | GitHub Arloak                         |
 | **Gerobug**        | Erakundeentzako ireki bountie plataforma ireki-kode ireki.            | [Gerobug](https://github.com/gerosecurity/gerobug) | Segurtasun Arloko Bounties                 |

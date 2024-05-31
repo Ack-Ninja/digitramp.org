@@ -57,7 +57,6 @@ Learning to code is a valuable skill in today's digital age, opening up numerous
 
 | Platform           | Description                                                                 | Link                                          | Type                                  |
 |--------------------|-----------------------------------------------------------------------------|-----------------------------------------------|---------------------------------------|
-| **Algora**         | Simplifies creating and earning bounties for open-source projects.          | [Algora](https://console.algora.io/)          | GitHub Issues                         |
 | **Bounting**       | Offers a variety of bounties across multiple programming languages and difficulty levels. | [Bounting](https://bount.ing/)             | GitHub Issues                         |
 | **Gitpay.me**      | User-friendly platform with a wide range of open-source projects offering bounties. | [Gitpay.me](https://gitpay.me/)               | GitHub Issues                         |
 | **Gitcoin**        | Focuses on blockchain and cryptocurrency-related projects.                 | [Gitcoin](https://gitcoin.co/)                | Both                                  |
@@ -65,6 +64,7 @@ Learning to code is a valuable skill in today's digital age, opening up numerous
 | **CodeTriage**     | Helps you find issues in open-source projects that need attention, some of which offer bounties. | [CodeTriage](https://www.codetriage.com/)     | GitHub Issues                         |
 | **OSS.Fund**       | Aggregates several platforms offering open-source bounties.                 | [OSS.Fund](https://www.oss.fund/categories/bounties/) | Both                                  |
 | **IssueHunt**      | Allows users to offer and earn bounties for fixing bugs or adding features. | [IssueHunt](https://issuehunt.io/)            | GitHub Issues                         |
+| **Algora**         | Simplifies creating and earning bounties for open-source projects.          | [Algora](https://console.algora.io/)          | GitHub Issues                         |
 | **BOSS**           | Platform integrated with GitHub for managing bounties.                      | [BOSS](https://www.boss.dev/)                 | GitHub Issues                         |
 | **Open Collective**| Provides a bounty program to support open-source contributions.             | [Open Collective](https://docs.opencollective.com/help/contributing/bounties/) | GitHub Issues                         |
 | **Gerobug**        | Open-source, self-managed bug bounty platform for organizations.            | [Gerobug](https://github.com/gerosecurity/gerobug) | Security Bug Bounties                 |

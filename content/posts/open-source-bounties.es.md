@@ -57,7 +57,6 @@ Aprender a codificar es una habilidad valiosa en la era digital actual, que abre
 
 | Plataforma           | Descripción                                                                 | Enlace                                          | Tipo                                  |
 |--------------------|-----------------------------------------------------------------------------|-----------------------------------------------|---------------------------------------|
-| **Algora**         | Simplifica la creación y obtención de recompensas para proyectos de código abierto.          | [Algora](https://console.algora.io/)          | Problemas de GitHub                         |
 | **Bounting**       | Ofrece una variedad de recompensas en varios lenguajes de programación y niveles de dificultad. | [Bounting](https://bount.ing/)             | Problemas de GitHub                         |
 | **Gitpay.me**      | Plataforma fácil de usar con una amplia gama de proyectos de código abierto que ofrecen recompensas. | [Gitpay.me](https://gitpay.me/)               | Problemas de GitHub                         |
 | **Gitcoin**        | Se enfoca en proyectos relacionados con blockchain y criptomonedas.                 | [Gitcoin](https://gitcoin.co/)                | Ambos                                  |
@@ -65,6 +64,7 @@ Aprender a codificar es una habilidad valiosa en la era digital actual, que abre
 | **CodeTriage**     | Te ayuda a encontrar problemas en proyectos de código abierto que necesitan atención, algunos de los cuales ofrecen recompensas. | [CodeTriage](https://www.codetriage.com/)     | Problemas de GitHub                         |
 | **OSS.Fund**       | Agrega varias plataformas que ofrecen recompensas de código abierto.                 | [OSS.Fund](https://www.oss.fund/categories/bounties/) | Ambos                                  |
 | **IssueHunt**      | Permite a los usuarios ofrecer y ganar recompensas por corregir errores o agregar funciones. | [IssueHunt](https://issuehunt.io/)            | Problemas de GitHub                         |
+| **Algora**         | Simplifica la creación y obtención de recompensas para proyectos de código abierto.          | [Algora](https://console.algora.io/)          | Problemas de GitHub                         |
 | **BOSS**           | Plataforma integrada con GitHub para gestionar recompensas.                      | [BOSS](https://www.boss.dev/)                 | Problemas de GitHub                         |
 | **Open Collective**| Ofrece un programa de recompensas para apoyar contribuciones de código abierto.             | [Open Collective](https://docs.opencollective.com/help/contributing/bounties/) | Problemas de GitHub                         |
 | **Gerobug**        | Plataforma de recompensas de errores de código abierto autogestionada para organizaciones.            | [Gerobug](https://github.com/gerosecurity/gerobug) | Recompensas por errores de seguridad                 |
